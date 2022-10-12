@@ -1,0 +1,5268 @@
+{
+  "nmcar": "Deputado Federal",
+  "abr": [
+    {
+      "tpabr": "UF",
+      "cdabr": "AC",
+      "nmabr": "ACRE",
+      "tvap": "434253",
+      "cand": [
+        {
+          "n": "1101",
+          "sqcand": "10001621643",
+          "nm": "MARIA DO SOCORRO NERI MEDEIROS DE SOUZA",
+          "nmu": "SOCORRO NERI",
+          "sgp": "PP",
+          "vap": "25842"
+        },
+        {
+          "n": "4455",
+          "sqcand": "10001612486",
+          "nm": "ROZIMEIRE RIBEIRO ANDRADE",
+          "nmu": "MEIRE SERAFIM",
+          "sgp": "UNIÃO",
+          "com": "UNIÃO",
+          "vap": "21285",
+          "seq": "2"
+        },
+        {
+          "n": "4422",
+          "sqcand": "10001612487",
+          "nm": "ULYSSES FREITAS PEREIRA DE ARAUJO",
+          "nmu": "CORONEL ULYSSES",
+          "sgp": "UNIÃO",
+          "com": "UNIÃO",
+          "vap": "21075",
+          "seq": "3"
+        },
+        {
+          "n": "1122",
+          "sqcand": "10001621646",
+          "nm": "JOSÉ ESTEPHAN BARBARY FILHO",
+          "nmu": "ZEZINHO BARBARY",
+          "sgp": "PP",
+          "com": "PP",
+          "vap": "19958",
+          "seq": "4"
+        },
+        {
+          "n": "1111",
+          "sqcand": "10001621650",
+          "nm": "GEHLEN DINIZ ANDRADE",
+          "nmu": "GERLEN DINIZ",
+          "sgp": "PP",
+          "com": "PP",
+          "vap": "19560",
+          "seq": "5"
+        },
+        {
+          "n": "4488",
+          "sqcand": "10001612484",
+          "nm": "EDUARDO OVIDIO BORGES DE VELLOSO VIANNA",
+          "nmu": "DR EDUARDO VELLOSO",
+          "sgp": "UNIÃO",
+          "com": "UNIÃO",
+          "vap": "16786",
+          "seq": "6"
+        },
+        {
+          "n": "1000",
+          "sqcand": "10001619990",
+          "nm": "ANTÔNIA LUCILEIA CRUZ RAMOS CAMARA",
+          "nmu": "ANTÔNIA LUCIA",
+          "sgp": "REPUBLICANOS",
+          "com": "REPUBLICANOS",
+          "vap": "16280",
+          "seq": "7"
+        },
+        {
+          "n": "1010",
+          "sqcand": "10001619993",
+          "nm": "ROBERTO DUARTE JUNIOR",
+          "nmu": "ROBERTO DUARTE",
+          "sgp": "REPUBLICANOS",
+          "com": "REPUBLICANOS",
+          "vap": "14522",
+          "seq": "8"
+        }
+      ]
+    },
+    {
+      "tpabr": "UF",
+      "cdabr": "AL",
+      "nmabr": "ALAGOAS",
+      "tvap": "1650763",
+      "cand": [
+        {
+          "n": "1111",
+          "sqcand": "20001614175",
+          "nm": "ARTHUR CESAR PEREIRA DE LIRA",
+          "nmu": "ARTHUR LIRA",
+          "sgp": "PP",
+          "com": "PP",
+          "vap": "219452",
+          "seq": "1"
+        },
+        {
+          "n": "4444",
+          "sqcand": "20001611726",
+          "nm": "ALFREDO GASPAR DE MENDONÇA NETO",
+          "nmu": "ALFREDO GASPAR",
+          "sgp": "UNIÃO",
+          "com": "UNIÃO",
+          "vap": "102039",
+          "seq": "2"
+        },
+        {
+          "n": "4343",
+          "sqcand": "20001610335",
+          "nm": "LUCIANO SURUAGY DO AMARAL FILHO",
+          "nmu": "LUCIANO AMARAL",
+          "sgp": "PV",
+          "com": "PC do B / PT / PV",
+          "vap": "101508",
+          "seq": "3"
+        },
+        {
+          "n": "1199",
+          "sqcand": "20001614180",
+          "nm": "MARX BELTRÃO LIMA SIQUEIRA",
+          "nmu": "MARX BELTRÃO",
+          "sgp": "PP",
+          "com": "PP",
+          "vap": "88512",
+          "seq": "4"
+        },
+        {
+          "n": "1515",
+          "sqcand": "20001653892",
+          "nm": "ISNALDO BULHÕES BARROS JÚNIOR",
+          "nmu": "ISNALDO BULHÕES JR",
+          "sgp": "MDB",
+          "com": "MDB",
+          "vap": "83965",
+          "seq": "5"
+        },
+        {
+          "n": "1313",
+          "sqcand": "20001610332",
+          "nm": "PAULO FERNANDO DOS SANTOS",
+          "nmu": "PAULÃO",
+          "sgp": "PT",
+          "com": "PC do B / PT / PV",
+          "vap": "65814",
+          "seq": "6"
+        },
+        {
+          "n": "1155",
+          "sqcand": "20001614181",
+          "nm": "DANIEL BARBOSA DE ALMEIDA SILVA",
+          "nmu": "DANIEL BARBOSA",
+          "sgp": "PP",
+          "com": "PP",
+          "vap": "63385",
+          "seq": "7"
+        },
+        {
+          "n": "1190",
+          "sqcand": "20001614182",
+          "nm": "FABIO MICHEY COSTA DA SILVA",
+          "nmu": "DELEGADO FABIO COSTA",
+          "sgp": "PP",
+          "com": "PP",
+          "vap": "60767",
+          "seq": "8"
+        },
+        {
+          "n": "1510",
+          "sqcand": "20001653888",
+          "nm": "RAFAEL DE GOES BRITO",
+          "nmu": "RAFAEL BRITO (TIO RAFA)",
+          "sgp": "MDB",
+          "com": "MDB",
+          "vap": "58134",
+          "seq": "9"
+        }
+      ]
+    },
+    {
+      "tpabr": "UF",
+      "cdabr": "AP",
+      "nmabr": "AMAPÁ",
+      "tvap": "423017",
+      "cand": [
+        {
+          "n": "1212",
+          "sqcand": "30001601832",
+          "nm": "JOSENILDO SANTOS ABRANTES",
+          "nmu": "JOSENILDO",
+          "sgp": "PDT",
+          "com": "PDT",
+          "vap": "27112",
+          "seq": "1"
+        },
+        {
+          "n": "1515",
+          "sqcand": "30001605451",
+          "nm": "ACÁCIO DA SILVA FAVACHO NETO",
+          "nmu": "ACÁCIO FAVACHO",
+          "sgp": "MDB",
+          "com": "MDB",
+          "vap": "24064",
+          "seq": "2"
+        },
+        {
+          "n": "2222",
+          "sqcand": "30001648512",
+          "nm": "VINICIUS DE AZEVEDO GURGEL",
+          "nmu": "VINICIUS GURGEL",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "13253",
+          "seq": "3"
+        },
+        {
+          "n": "1222",
+          "sqcand": "30001601831",
+          "nm": "DORINALDO BARBOSA MALAFAIA",
+          "nmu": "DORINALDO MALAFAIA",
+          "sgp": "PDT",
+          "com": "PDT",
+          "vap": "11473",
+          "seq": "4"
+        },
+        {
+          "n": "2225",
+          "sqcand": "30001648516",
+          "nm": "SONIZE PIMENTEL DOS SANTOS BARBOSA",
+          "nmu": "SONIZE BARBOSA",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "9200",
+          "seq": "5"
+        },
+        {
+          "n": "1234",
+          "sqcand": "30001601833",
+          "nm": "MARIA GORETH DA SILVA E SOUSA",
+          "nmu": "PROFESSORA GORETH",
+          "sgp": "PDT",
+          "com": "PDT",
+          "vap": "8409",
+          "seq": "6"
+        },
+        {
+          "n": "1510",
+          "sqcand": "30001605452",
+          "nm": "JOSÉ AUGUSTO PUPIO REIS JÚNIOR",
+          "nmu": "DR. PUPIO",
+          "sgp": "MDB",
+          "com": "MDB",
+          "vap": "5787",
+          "seq": "7"
+        },
+        {
+          "n": "2210",
+          "sqcand": "30001648510",
+          "nm": "SILVIA NOBRE LOPES",
+          "nmu": "SILVIA WAIÃPI",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "5435",
+          "seq": "8"
+        }
+      ]
+    },
+    {
+      "tpabr": "UF",
+      "cdabr": "AM",
+      "nmabr": "AMAZONAS",
+      "tvap": "1976477",
+      "cand": [
+        {
+          "n": "2323",
+          "sqcand": "40001719165",
+          "nm": "AMOM MANDEL LINS FILHO",
+          "nmu": "AMOM MANDEL",
+          "sgp": "CIDADANIA",
+          "com": "CIDADANIA / PSDB",
+          "vap": "288555",
+          "seq": "1"
+        },
+        {
+          "n": "2210",
+          "sqcand": "40001612948",
+          "nm": "ALBERTO BARROS CAVALCANTE NETO",
+          "nmu": "CAPITÃO ALBERTO NETO",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "147846",
+          "seq": "2"
+        },
+        {
+          "n": "4455",
+          "sqcand": "40001618446",
+          "nm": "SAULLO VELAME VIANNA",
+          "nmu": "SAULLO VIANNA",
+          "sgp": "UNIÃO",
+          "com": "UNIÃO",
+          "vap": "127287",
+          "seq": "3"
+        },
+        {
+          "n": "1010",
+          "sqcand": "40001609377",
+          "nm": "SILAS CÂMARA",
+          "nmu": "SILAS CÂMARA",
+          "sgp": "REPUBLICANOS",
+          "com": "REPUBLICANOS",
+          "vap": "125068",
+          "seq": "4"
+        },
+        {
+          "n": "5525",
+          "sqcand": "40001609233",
+          "nm": "ATILA SIDNEY LINS DE ALBUQUERQUE",
+          "nmu": "ATILA LINS",
+          "sgp": "PSD",
+          "com": "PSD",
+          "vap": "102401",
+          "seq": "5"
+        },
+        {
+          "n": "5555",
+          "sqcand": "40001609236",
+          "nm": "SIDNEY RICARDO DE OLIVEIRA LEITE",
+          "nmu": "SIDNEY LEITE",
+          "sgp": "PSD",
+          "com": "PSD",
+          "vap": "102181",
+          "seq": "6"
+        },
+        {
+          "n": "1000",
+          "sqcand": "40001609376",
+          "nm": "ADAIL JOSÉ FIGUEIREDO PINHEIRO",
+          "nmu": "ADAIL FILHO",
+          "sgp": "REPUBLICANOS",
+          "com": "REPUBLICANOS",
+          "vap": "90028",
+          "seq": "7"
+        },
+        {
+          "n": "4477",
+          "sqcand": "40001618451",
+          "nm": "FAUSTO VIEIRA DOS SANTOS JÚNIOR",
+          "nmu": "FAUSTO SANTOS JR",
+          "sgp": "UNIÃO",
+          "com": "UNIÃO",
+          "vap": "87876",
+          "seq": "8"
+        }
+      ]
+    },
+    {
+      "tpabr": "UF",
+      "cdabr": "BA",
+      "nmabr": "BAHIA",
+      "tvap": "7958431",
+      "cand": [
+        {
+          "n": "5588",
+          "sqcand": "50001607228",
+          "nm": "OTTO ROBERTO MENDONCA DE ALENCAR FILHO",
+          "nmu": "OTTO FILHO",
+          "sgp": "PSD",
+          "com": "PSD",
+          "vap": "200909",
+          "seq": "1"
+        },
+        {
+          "n": "4433",
+          "sqcand": "50001634583",
+          "nm": "ELMAR JOSE VIEIRA NASCIMENTO",
+          "nmu": "ELMAR NASCIMENTO",
+          "sgp": "UNIÃO",
+          "com": "UNIÃO",
+          "vap": "175439",
+          "seq": "2"
+        },
+        {
+          "n": "5500",
+          "sqcand": "50001607221",
+          "nm": "DIEGO HENRIQUE SILVA CERQUEIRA MARTINS",
+          "nmu": "DIEGO CORONEL",
+          "sgp": "PSD",
+          "com": "PSD",
+          "vap": "171684",
+          "seq": "3"
+        },
+        {
+          "n": "5510",
+          "sqcand": "50001607229",
+          "nm": "ANTONIO LUIZ PARANHOS RIBEIRO LEITE DE BRITO",
+          "nmu": "ANTONIO BRITO",
+          "sgp": "PSD",
+          "com": "PSD",
+          "vap": "165386",
+          "seq": "4"
+        },
+        {
+          "n": "1144",
+          "sqcand": "50001621029",
+          "nm": "ORLANDO SULZ DE ALMEIDA NETO",
+          "nmu": "NETO CARLETTO",
+          "sgp": "PP",
+          "com": "PP",
+          "vap": "164655",
+          "seq": "5"
+        },
+        {
+          "n": "2222",
+          "sqcand": "50001609349",
+          "nm": "ROBERTA DE ARAÚJO COSTA ROMA",
+          "nmu": "ROBERTA ROMA",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "160731",
+          "seq": "6"
+        },
+        {
+          "n": "1122",
+          "sqcand": "50001621019",
+          "nm": "CLAUDIO CAJADO SAMPAIO",
+          "nmu": "CLAUDIO CAJADO",
+          "sgp": "PP",
+          "com": "PP",
+          "vap": "154098",
+          "seq": "7"
+        },
+        {
+          "n": "1111",
+          "sqcand": "50001621035",
+          "nm": "MÁRIO SÍLVIO MENDES NEGROMONTE JÚNIOR",
+          "nmu": "MÁRIO NEGROMONTE JR",
+          "sgp": "PP",
+          "com": "PP",
+          "vap": "147711",
+          "seq": "8"
+        },
+        {
+          "n": "1244",
+          "sqcand": "50001620881",
+          "nm": "LEONARDO SILVA PRATES",
+          "nmu": "LÉO PRATES",
+          "sgp": "PDT",
+          "com": "PDT",
+          "vap": "143763",
+          "seq": "9"
+        },
+        {
+          "n": "4488",
+          "sqcand": "50001634594",
+          "nm": "ADALBERTO ROSA BARRETO",
+          "nmu": "DEPUTADO DAL",
+          "sgp": "UNIÃO",
+          "com": "UNIÃO",
+          "vap": "140435",
+          "seq": "10"
+        },
+        {
+          "n": "5577",
+          "sqcand": "50001607226",
+          "nm": "GABRIEL JOSE MOURA NUNES SOARES",
+          "nmu": "GABRIEL NUNES",
+          "sgp": "PSD",
+          "com": "PSD",
+          "vap": "138448",
+          "seq": "11"
+        },
+        {
+          "n": "4400",
+          "sqcand": "50001634593",
+          "nm": "PAULO VELLOSO DANTAS AZI",
+          "nmu": "PAULO AZI",
+          "sgp": "UNIÃO",
+          "com": "UNIÃO",
+          "vap": "137383",
+          "seq": "12"
+        },
+        {
+          "n": "1555",
+          "sqcand": "50001614047",
+          "nm": "RICARDO MAIA CHAVES DE SOUZA",
+          "nmu": "RICARDO MAIA",
+          "sgp": "MDB",
+          "com": "MDB",
+          "vap": "136834",
+          "seq": "13"
+        },
+        {
+          "n": "1313",
+          "sqcand": "50001605359",
+          "nm": "JORGE JOSE SANTOS PEREIRA SOLLA",
+          "nmu": "JORGE SOLLA",
+          "sgp": "PT",
+          "com": "PC do B / PT / PV",
+          "vap": "128968",
+          "seq": "14"
+        },
+        {
+          "n": "1323",
+          "sqcand": "50001605365",
+          "nm": "JOSÉ CERQUEIRA DE SANTANA NETO",
+          "nmu": "ZÉ NETO",
+          "sgp": "PT",
+          "com": "PC do B / PT / PV",
+          "vap": "128439",
+          "seq": "15"
+        },
+        {
+          "n": "6565",
+          "sqcand": "50001605367",
+          "nm": "DANIEL GOMES DE ALMEIDA",
+          "nmu": "DANIEL",
+          "sgp": "PC do B",
+          "com": "PC do B / PT / PV",
+          "vap": "125374",
+          "seq": "16"
+        },
+        {
+          "n": "6522",
+          "sqcand": "50001605368",
+          "nm": "ALICE MAZZUCO PORTUGAL",
+          "nmu": "ALICE PORTUGAL",
+          "sgp": "PC do B",
+          "com": "PC do B / PT / PV",
+          "vap": "124358",
+          "seq": "17"
+        },
+        {
+          "n": "4545",
+          "sqcand": "50001613575",
+          "nm": "ADOLFO VIANA DE CASTRO NETO",
+          "nmu": "ADOLFO VIANA",
+          "sgp": "PSDB",
+          "com": "CIDADANIA / PSDB",
+          "vap": "123199",
+          "seq": "18"
+        },
+        {
+          "n": "1010",
+          "sqcand": "50001619869",
+          "nm": "MARCIO CARLOS MARINHO",
+          "nmu": "MARCIO MARINHO",
+          "sgp": "REPUBLICANOS",
+          "com": "REPUBLICANOS",
+          "vap": "118904",
+          "seq": "19"
+        },
+        {
+          "n": "1301",
+          "sqcand": "50001605378",
+          "nm": "AFONSO BANDEIRA FLORENCE",
+          "nmu": "AFONSO FLORENCE",
+          "sgp": "PT",
+          "com": "PC do B / PT / PV",
+          "vap": "118021",
+          "seq": "20"
+        },
+        {
+          "n": "5580",
+          "sqcand": "50001607223",
+          "nm": "SÉRGIO LUÍS LACERDA BRITO",
+          "nmu": "SÉRGIO BRITO",
+          "sgp": "PSD",
+          "com": "PSD",
+          "vap": "116960",
+          "seq": "21"
+        },
+        {
+          "n": "1322",
+          "sqcand": "50001605361",
+          "nm": "WALDENOR ALVES PEREIRA FILHO",
+          "nmu": "WALDENOR PEREIRA",
+          "sgp": "PT",
+          "com": "PC do B / PT / PV",
+          "vap": "113110",
+          "seq": "22"
+        },
+        {
+          "n": "4040",
+          "sqcand": "50001606032",
+          "nm": "LÍDICE DA MATA E SOUZA",
+          "nmu": "LÍDICE DA MATA",
+          "sgp": "PSB",
+          "com": "PSB",
+          "vap": "112385",
+          "seq": "23"
+        },
+        {
+          "n": "4343",
+          "sqcand": "50001605351",
+          "nm": "JOÃO CARLOS BACELAR BATISTA",
+          "nmu": "BACELAR",
+          "sgp": "PV",
+          "com": "PC do B / PT / PV",
+          "vap": "110787",
+          "seq": "24"
+        },
+        {
+          "n": "4412",
+          "sqcand": "50001634596",
+          "nm": "ARTHUR DE OLIVEIRA MAIA DA SILVA",
+          "nmu": "ARTHUR MAIA",
+          "sgp": "UNIÃO",
+          "com": "UNIÃO",
+          "vap": "108672",
+          "seq": "25"
+        },
+        {
+          "n": "5529",
+          "sqcand": "50001607232",
+          "nm": "PAULO SÉRGIO PARANHOS DE MAGALHÃES",
+          "nmu": "PAULO MAGALHÃES",
+          "sgp": "PSD",
+          "com": "PSD",
+          "vap": "107093",
+          "seq": "26"
+        },
+        {
+          "n": "1023",
+          "sqcand": "50001619864",
+          "nm": "ALEX MARCO SANTANA SOUSA",
+          "nmu": "ALEX SANTANA",
+          "sgp": "REPUBLICANOS",
+          "com": "REPUBLICANOS",
+          "vap": "106940",
+          "seq": "27"
+        },
+        {
+          "n": "1300",
+          "sqcand": "50001605353",
+          "nm": "IVONEIDE SOUZA CAETANO",
+          "nmu": "IVONEIDE CAETANO",
+          "sgp": "PT",
+          "com": "PC do B / PT / PV",
+          "vap": "105885",
+          "seq": "28"
+        },
+        {
+          "n": "1361",
+          "sqcand": "50001605369",
+          "nm": "JOSEILDO RIBEIRO RAMOS",
+          "nmu": "JOSEILDO RAMOS",
+          "sgp": "PT",
+          "com": "PC do B / PT / PV",
+          "vap": "104228",
+          "seq": "29"
+        },
+        {
+          "n": "1115",
+          "sqcand": "50001621034",
+          "nm": "JOÃO FELIPE DE SOUZA LEÃO",
+          "nmu": "JOÃO LEÃO",
+          "sgp": "PP",
+          "com": "PP",
+          "vap": "102376",
+          "seq": "30"
+        },
+        {
+          "n": "2238",
+          "sqcand": "50001609344",
+          "nm": "ALDEN JOSÉ LÁZARO DA SILVA",
+          "nmu": "CAPITÃO ALDEN",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "95151",
+          "seq": "31"
+        },
+        {
+          "n": "2288",
+          "sqcand": "50001609371",
+          "nm": "JOÃO CARLOS PAOLILO BACELAR FILHO",
+          "nmu": "JOÃO CARLOS BACELAR",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "90229",
+          "seq": "32"
+        },
+        {
+          "n": "1310",
+          "sqcand": "50001605371",
+          "nm": "VALMIR CARLOS DA ASSUNÇÃO",
+          "nmu": "VALMIR ASSUNÇÃO",
+          "sgp": "PT",
+          "com": "PC do B / PT / PV",
+          "vap": "90148",
+          "seq": "33"
+        },
+        {
+          "n": "1000",
+          "sqcand": "50001619841",
+          "nm": "ROGERIA DE ALMEIDA PEREIRA DOS SANTOS",
+          "nmu": "ROGERIA SANTOS",
+          "sgp": "REPUBLICANOS",
+          "com": "REPUBLICANOS",
+          "vap": "82012",
+          "seq": "34"
+        },
+        {
+          "n": "4411",
+          "sqcand": "50001634592",
+          "nm": "LEUR ANTONIO DE BRITTO LOMANTO JUNIOR",
+          "nmu": "LEUR LOMANTO JR",
+          "sgp": "UNIÃO",
+          "com": "UNIÃO",
+          "vap": "82004",
+          "seq": "35"
+        },
+        {
+          "n": "4422",
+          "sqcand": "50001634584",
+          "nm": "JOSÉ ALVES ROCHA",
+          "nmu": "JOSÉ ROCHA",
+          "sgp": "UNIÃO",
+          "com": "UNIÃO",
+          "vap": "78833",
+          "seq": "36"
+        },
+        {
+          "n": "7000",
+          "sqcand": "50001602958",
+          "nm": "MANOEL ISIDÓRIO DE SANTANA JÚNIOR",
+          "nmu": "PASTOR SARGENTO ISIDÓRIO",
+          "sgp": "AVANTE",
+          "com": "AVANTE",
+          "vap": "77164",
+          "seq": "37"
+        },
+        {
+          "n": "1234",
+          "sqcand": "50001620846",
+          "nm": "FELIX DE ALMEIDA MENDONCA JUNIOR",
+          "nmu": "FELIX  MENDONÇA",
+          "sgp": "PDT",
+          "com": "PDT",
+          "vap": "71774",
+          "seq": "38"
+        },
+        {
+          "n": "1919",
+          "sqcand": "50001615380",
+          "nm": "RAIMUNDO MAGALHÃES COSTA",
+          "nmu": "RAIMUNDO COSTA",
+          "sgp": "PODE",
+          "com": "PODE",
+          "vap": "53486",
+          "seq": "39"
+        }
+      ]
+    },
+    {
+      "tpabr": "UF",
+      "cdabr": "CE",
+      "nmabr": "CEARÁ",
+      "tvap": "5108239",
+      "cand": [
+        {
+          "n": "2222",
+          "sqcand": "60001614161",
+          "nm": "ANDRÉ FERNANDES DE MOURA",
+          "nmu": "ANDRÉ FERNANDES",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "229509",
+          "seq": "1"
+        },
+        {
+          "n": "2255",
+          "sqcand": "60001614151",
+          "nm": "ANTONIO LUIZ RODRIGUES MANO JUNIOR",
+          "nmu": "JÚNIOR MANO",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "216531",
+          "seq": "2"
+        },
+        {
+          "n": "5511",
+          "sqcand": "60001601189",
+          "nm": "CÉLIO STUDART BARBOSA",
+          "nmu": "CÉLIO STUDART",
+          "sgp": "PSD",
+          "com": "PSD",
+          "vap": "205106",
+          "seq": "3"
+        },
+        {
+          "n": "1533",
+          "sqcand": "60001643110",
+          "nm": "EUNÍCIO LOPES DE OLIVEIRA",
+          "nmu": "EUNÍCIO",
+          "sgp": "MDB",
+          "com": "MDB",
+          "vap": "188289",
+          "seq": "4"
+        },
+        {
+          "n": "1213",
+          "sqcand": "60001603469",
+          "nm": "ANTONIO IDILVAN DE LIMA ALENCAR",
+          "nmu": "IDILVAN",
+          "sgp": "PDT",
+          "com": "PDT",
+          "vap": "187433",
+          "seq": "5"
+        },
+        {
+          "n": "1322",
+          "sqcand": "60001619124",
+          "nm": "JOSE NOBRE GUIMARAES",
+          "nmu": "GUIMARÃES DO PT",
+          "sgp": "PT",
+          "com": "PC do B / PT / PV",
+          "vap": "186136",
+          "seq": "6"
+        },
+        {
+          "n": "1313",
+          "sqcand": "60001619128",
+          "nm": "LUIZIANNE DE OLIVEIRA LINS",
+          "nmu": "LUIZIANNE LINS",
+          "sgp": "PT",
+          "com": "PC do B / PT / PV",
+          "vap": "182232",
+          "seq": "7"
+        },
+        {
+          "n": "5555",
+          "sqcand": "60001601183",
+          "nm": "DOMINGOS GOMES DE AGUIAR NETO",
+          "nmu": "DOMINGOS NETO",
+          "sgp": "PSD",
+          "com": "PSD",
+          "vap": "175074",
+          "seq": "8"
+        },
+        {
+          "n": "1111",
+          "sqcand": "60001619170",
+          "nm": "ANTONIO JOSÉ AGUIAR ALBUQUERQUE",
+          "nmu": "AJ ALBUQUERQUE",
+          "sgp": "PP",
+          "com": "PP",
+          "vap": "155456",
+          "seq": "9"
+        },
+        {
+          "n": "1233",
+          "sqcand": "60001603485",
+          "nm": "MARCOS ROBÉRIO RIBEIRO MONTEIRO",
+          "nmu": "ROBÉRIO MONTEIRO",
+          "sgp": "PDT",
+          "com": "PDT",
+          "vap": "151030",
+          "seq": "10"
+        },
+        {
+          "n": "2299",
+          "sqcand": "60001614168",
+          "nm": "MATHEUS SOARES NORONHA",
+          "nmu": "MATHEUS NORONHA",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "150823",
+          "seq": "11"
+        },
+        {
+          "n": "1221",
+          "sqcand": "60001603470",
+          "nm": "CARLOS MAURO BENEVIDES FILHO",
+          "nmu": "MAURO FILHO",
+          "sgp": "PDT",
+          "com": "PDT",
+          "vap": "135038",
+          "seq": "12"
+        },
+        {
+          "n": "4477",
+          "sqcand": "60001608882",
+          "nm": "FERNANDA ENEIDA PESSOA CARACAS DE SOUZA",
+          "nmu": "FERNANDA PESSOA",
+          "sgp": "UNIÃO",
+          "com": "UNIÃO",
+          "vap": "121469",
+          "seq": "13"
+        },
+        {
+          "n": "4488",
+          "sqcand": "60001608894",
+          "nm": "MOSES HAENDEL MELO RODRIGUES",
+          "nmu": "MOSES RODRIGUES",
+          "sgp": "UNIÃO",
+          "com": "UNIÃO",
+          "vap": "113294",
+          "seq": "14"
+        },
+        {
+          "n": "1234",
+          "sqcand": "60001603484",
+          "nm": "ANDRÉ PEIXOTO FIGUEIREDO LIMA",
+          "nmu": "ANDRÉ FIGUEIREDO",
+          "sgp": "PDT",
+          "com": "PDT",
+          "vap": "111886",
+          "seq": "15"
+        },
+        {
+          "n": "1214",
+          "sqcand": "60001603472",
+          "nm": "EDUARDO HENRIQUE MAIA BISMARCK",
+          "nmu": "EDUARDO BISMARCK",
+          "sgp": "PDT",
+          "com": "PDT",
+          "vap": "102287",
+          "seq": "16"
+        },
+        {
+          "n": "5533",
+          "sqcand": "60001601188",
+          "nm": "LUIZ GASTÃO BITTENCOURT DA SILVA",
+          "nmu": "LUIZ GASTÃO",
+          "sgp": "PSD",
+          "com": "PSD",
+          "vap": "96537",
+          "seq": "17"
+        },
+        {
+          "n": "2211",
+          "sqcand": "60001614155",
+          "nm": "YURY BRUNO ALENCAR ARAÚJO",
+          "nmu": "YURY DO PAREDÃO",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "90425",
+          "seq": "18"
+        },
+        {
+          "n": "4447",
+          "sqcand": "60001608893",
+          "nm": "FRANCISCO DANILO BASTOS FORTE",
+          "nmu": "DANILO FORTE",
+          "sgp": "UNIÃO",
+          "com": "UNIÃO",
+          "vap": "88470",
+          "seq": "19"
+        },
+        {
+          "n": "1333",
+          "sqcand": "60001619120",
+          "nm": "JOSE AIRTON FELIX CIRILO DA SILVA",
+          "nmu": "JOSE AIRTON",
+          "sgp": "PT",
+          "com": "PC do B / PT / PV",
+          "vap": "82274",
+          "seq": "20"
+        },
+        {
+          "n": "2277",
+          "sqcand": "60001614163",
+          "nm": "JAZIEL PEREIRA DE SOUSA",
+          "nmu": "DR JAZIEL",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "79358",
+          "seq": "21"
+        },
+        {
+          "n": "4456",
+          "sqcand": "60001608898",
+          "nm": "DAYANY BITTENCOURT SANTIL",
+          "nmu": "DAYANY DO CAPITÃO",
+          "sgp": "UNIÃO",
+          "com": "UNIÃO",
+          "vap": "54526",
+          "seq": "22"
+        }
+      ]
+    },
+    {
+      "tpabr": "UF",
+      "cdabr": "DF",
+      "nmabr": "DISTRITO FEDERAL",
+      "tvap": "1607519",
+      "cand": [
+        {
+          "n": "2222",
+          "sqcand": "70001615922",
+          "nm": "BEATRIZ KICIS TORRENTS DE SORDI",
+          "nmu": "BIA KICIS",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "214733",
+          "seq": "1"
+        },
+        {
+          "n": "1020",
+          "sqcand": "70001615666",
+          "nm": "DAVYS FREDERICO TEIXEIRA LINHARES",
+          "nmu": "FRED LINHARES",
+          "sgp": "REPUBLICANOS",
+          "com": "REPUBLICANOS",
+          "vap": "165358",
+          "seq": "2"
+        },
+        {
+          "n": "1331",
+          "sqcand": "70001595679",
+          "nm": "ERIKA JUCÁ KOKAY",
+          "nmu": "ERIKA KOKAY",
+          "sgp": "PT",
+          "com": "PC do B / PT / PV",
+          "vap": "146092",
+          "seq": "3"
+        },
+        {
+          "n": "1515",
+          "sqcand": "70001650514",
+          "nm": "RAFAEL CAVALCANTI PRUDENTE",
+          "nmu": "RAFAEL PRUDENTE",
+          "sgp": "MDB",
+          "com": "MDB",
+          "vap": "121307",
+          "seq": "4"
+        },
+        {
+          "n": "1010",
+          "sqcand": "70001615670",
+          "nm": "JULIO CESAR RIBEIRO",
+          "nmu": "JULIO CESAR",
+          "sgp": "REPUBLICANOS",
+          "com": "REPUBLICANOS",
+          "vap": "76274",
+          "seq": "5"
+        },
+        {
+          "n": "4343",
+          "sqcand": "70001595684",
+          "nm": "REGINALDO VERAS COELHO",
+          "nmu": "PROFESSOR REGINALDO VERAS",
+          "sgp": "PV",
+          "com": "PC do B / PT / PV",
+          "vap": "54557",
+          "seq": "6"
+        },
+        {
+          "n": "2225",
+          "sqcand": "70001615924",
+          "nm": "JOÃO ALBERTO FRAGA SILVA",
+          "nmu": "FRAGA",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "28825",
+          "seq": "7"
+        },
+        {
+          "n": "1015",
+          "sqcand": "70001615669",
+          "nm": "GILVAM MAXIMO",
+          "nmu": "GILVAN MAXIMO",
+          "sgp": "REPUBLICANOS",
+          "com": "REPUBLICANOS",
+          "vap": "20923",
+          "seq": "8"
+        }
+      ]
+    },
+    {
+      "tpabr": "UF",
+      "cdabr": "ES",
+      "nmabr": "ESPÍRITO SANTO",
+      "tvap": "2084430",
+      "cand": [
+        {
+          "n": "1350",
+          "sqcand": "80001719429",
+          "nm": "HELDER IGNÁCIO SALOMÃO",
+          "nmu": "HELDER SALOMÃO",
+          "sgp": "PT",
+          "com": "PC do B / PT / PV",
+          "vap": "120337",
+          "seq": "1"
+        },
+        {
+          "n": "2222",
+          "sqcand": "80001615730",
+          "nm": "GILVAN AGUIAR COSTA",
+          "nmu": "GILVAN O FEDERAL DA DIREITA",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "87994",
+          "seq": "2"
+        },
+        {
+          "n": "1122",
+          "sqcand": "80001650199",
+          "nm": "EVAIR VIEIRA DE MELO",
+          "nmu": "EVAIR DE MELO",
+          "sgp": "PP",
+          "com": "PP",
+          "vap": "75034",
+          "seq": "3"
+        },
+        {
+          "n": "1919",
+          "sqcand": "80001604734",
+          "nm": "GILSON DANIEL BATISTA",
+          "nmu": "GILSON DANIEL",
+          "sgp": "PODE",
+          "com": "PODE",
+          "vap": "74215",
+          "seq": "4"
+        },
+        {
+          "n": "1111",
+          "sqcand": "80001650200",
+          "nm": "JOSIAS MARIO DA VITÓRIA",
+          "nmu": "DA VITÓRIA",
+          "sgp": "PP",
+          "com": "PP",
+          "vap": "71779",
+          "seq": "5"
+        },
+        {
+          "n": "1900",
+          "sqcand": "80001604731",
+          "nm": "VICTOR GAROZI LINHALIS",
+          "nmu": "DR. VICTOR",
+          "sgp": "PODE",
+          "com": "PODE",
+          "vap": "53483",
+          "seq": "6"
+        },
+        {
+          "n": "1010",
+          "sqcand": "80001604531",
+          "nm": "AMARO ROCHA NASCIMENTO NETO",
+          "nmu": "AMARO NETO",
+          "sgp": "REPUBLICANOS",
+          "com": "REPUBLICANOS",
+          "vap": "52375",
+          "seq": "7"
+        },
+        {
+          "n": "1300",
+          "sqcand": "80001719422",
+          "nm": "JACKELINE OLIVEIRA ROCHA",
+          "nmu": "JACK ROCHA",
+          "sgp": "PT",
+          "com": "PC do B / PT / PV",
+          "vap": "51317",
+          "seq": "8"
+        },
+        {
+          "n": "4040",
+          "sqcand": "80001620975",
+          "nm": "PAULO ROBERTO FOLETTO",
+          "nmu": "PAULO FOLETTO",
+          "sgp": "PSB",
+          "com": "PSB",
+          "vap": "48776",
+          "seq": "9"
+        },
+        {
+          "n": "1044",
+          "sqcand": "80001604529",
+          "nm": "MANOEL MESSIAS DONATO BEZERRA",
+          "nmu": "MESSIAS DONATO",
+          "sgp": "REPUBLICANOS",
+          "com": "REPUBLICANOS",
+          "vap": "42640",
+          "seq": "10"
+        }
+      ]
+    },
+    {
+      "tpabr": "UF",
+      "cdabr": "GO",
+      "nmabr": "GOIÁS",
+      "tvap": "3440515",
+      "cand": [
+        {
+          "n": "4444",
+          "sqcand": "90001614749",
+          "nm": "SILVYE ALVES DA SILVA",
+          "nmu": "SILVYE ALVES",
+          "sgp": "UNIÃO",
+          "com": "UNIÃO",
+          "vap": "254653",
+          "seq": "1"
+        },
+        {
+          "n": "2210",
+          "sqcand": "90001652508",
+          "nm": "GUSTAVO GAYER MACHADO DE ARAUJO",
+          "nmu": "GUSTAVO GAYER",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "200586",
+          "seq": "2"
+        },
+        {
+          "n": "1212",
+          "sqcand": "90001609056",
+          "nm": "FLÁVIA CARREIRO ALBUQUERQUE MORAIS",
+          "nmu": "FLAVIA MORAIS",
+          "sgp": "PDT",
+          "com": "PDT",
+          "vap": "142155",
+          "seq": "3"
+        },
+        {
+          "n": "2022",
+          "sqcand": "90001614055",
+          "nm": "GLAUSKSTON BATISTA RIOS",
+          "nmu": "GLAUSTIN DA FOKUS",
+          "sgp": "PSC",
+          "com": "PSC",
+          "vap": "117981",
+          "seq": "4"
+        },
+        {
+          "n": "1123",
+          "sqcand": "90001700974",
+          "nm": "JOSÉ NELTO LAGARES DAS MERCÊZ",
+          "nmu": "JOSÉ NELTO",
+          "sgp": "PP",
+          "com": "PP",
+          "vap": "104504",
+          "seq": "5"
+        },
+        {
+          "n": "1331",
+          "sqcand": "90001648110",
+          "nm": "ADRIANA SAUTHIER ACCORSI",
+          "nmu": "DELEGADA ADRIANA ACCORSI",
+          "sgp": "PT",
+          "com": "PC do B / PT / PV",
+          "vap": "96714",
+          "seq": "6"
+        },
+        {
+          "n": "1111",
+          "sqcand": "90001700983",
+          "nm": "ADRIANO ANTONIO AVELAR",
+          "nmu": "ADRIANO DO BALDY",
+          "sgp": "PP",
+          "com": "PP",
+          "vap": "95518",
+          "seq": "7"
+        },
+        {
+          "n": "1599",
+          "sqcand": "90001621109",
+          "nm": "CÉLIO ANTÔNIO DA SILVEIRA",
+          "nmu": "CÉLIO SILVEIRA",
+          "sgp": "MDB",
+          "com": "MDB",
+          "vap": "92469",
+          "seq": "8"
+        },
+        {
+          "n": "2250",
+          "sqcand": "90001652505",
+          "nm": "ALCIDES RIBEIRO FILHO",
+          "nmu": "PROFESSOR ALCIDES",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "90162",
+          "seq": "9"
+        },
+        {
+          "n": "4480",
+          "sqcand": "90001614746",
+          "nm": "ZACARIAS CALIL HAMU",
+          "nmu": "DR ZACHARIAS CALIL",
+          "sgp": "UNIÃO",
+          "com": "UNIÃO",
+          "vap": "87919",
+          "seq": "10"
+        },
+        {
+          "n": "1313",
+          "sqcand": "90001648112",
+          "nm": "RUBENS OTONI GOMIDE",
+          "nmu": "RUBENS OTONI",
+          "sgp": "PT",
+          "com": "PC do B / PT / PV",
+          "vap": "83539",
+          "seq": "11"
+        },
+        {
+          "n": "2222",
+          "sqcand": "90001652511",
+          "nm": "MAGDA MOFATTO HON",
+          "nmu": "MAGDA MOFATTO",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "81996",
+          "seq": "12"
+        },
+        {
+          "n": "1555",
+          "sqcand": "90001621102",
+          "nm": "MARUSSA CASSIA FAVARO BOLDRIN",
+          "nmu": "MARUSSA BOLDRIN",
+          "sgp": "MDB",
+          "com": "MDB",
+          "vap": "80464",
+          "seq": "13"
+        },
+        {
+          "n": "2255",
+          "sqcand": "90001652507",
+          "nm": "DANIEL VIEIRA RAMOS",
+          "nmu": "DANIEL AGROBOM",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "70529",
+          "seq": "14"
+        },
+        {
+          "n": "1010",
+          "sqcand": "90001651357",
+          "nm": "JEFERSON RODRIGUES LEMOS",
+          "nmu": "JEFERSON RODRIGUES",
+          "sgp": "REPUBLICANOS",
+          "com": "REPUBLICANOS",
+          "vap": "56026",
+          "seq": "15"
+        },
+        {
+          "n": "5500",
+          "sqcand": "90001651581",
+          "nm": "ISMAEL ALEXANDRINO JUNIOR",
+          "nmu": "DR ISMAEL ALEXANDRINO ",
+          "sgp": "PSD",
+          "com": "PSD",
+          "vap": "54791",
+          "seq": "16"
+        },
+        {
+          "n": "4545",
+          "sqcand": "90001621634",
+          "nm": "LÊDA BORGES DE MOURA",
+          "nmu": "LÊDA BORGES",
+          "sgp": "PSDB",
+          "com": "CIDADANIA / PSDB",
+          "vap": "51346",
+          "seq": "17"
+        }
+      ]
+    },
+    {
+      "tpabr": "UF",
+      "cdabr": "MA",
+      "nmabr": "MARANHÃO",
+      "tvap": "3706498",
+      "cand": [
+        {
+          "n": "2233",
+          "sqcand": "100001603115",
+          "nm": "MARIA DEUSDETE LIMA CUNHA RODRIGUES",
+          "nmu": "DETINHA",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "161206",
+          "seq": "1"
+        },
+        {
+          "n": "4444",
+          "sqcand": "100001610559",
+          "nm": "PEDRO LUCAS ANDRADE FERNANDES RIBEIRO",
+          "nmu": "PEDRO LUCAS FERNANDES",
+          "sgp": "UNIÃO",
+          "com": "UNIÃO",
+          "vap": "159786",
+          "seq": "2"
+        },
+        {
+          "n": "2222",
+          "sqcand": "100001603114",
+          "nm": "JOSIMAR CUNHA RODRIGUES",
+          "nmu": "JOSIMAR MARANHÃOZINHO",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "158360",
+          "seq": "3"
+        },
+        {
+          "n": "4410",
+          "sqcand": "100001610561",
+          "nm": "JOSÉ JUSCELINO DOS SANTOS REZENDE FILHO",
+          "nmu": "JUSCELINO FILHO",
+          "sgp": "UNIÃO",
+          "com": "UNIÃO",
+          "vap": "142419",
+          "seq": "4"
+        },
+        {
+          "n": "1111",
+          "sqcand": "100001608075",
+          "nm": "ANDRÉ LUIZ CARVALHO RIBEIRO",
+          "nmu": "ANDRÉ FUFUCA",
+          "sgp": "PP",
+          "com": "PP",
+          "vap": "135078",
+          "seq": "5"
+        },
+        {
+          "n": "2020",
+          "sqcand": "100001615465",
+          "nm": "ALUISIO GUIMARAES MENDES FILHO",
+          "nmu": "ALUISIO MENDES",
+          "sgp": "PSC",
+          "com": "PSC",
+          "vap": "126577",
+          "seq": "6"
+        },
+        {
+          "n": "5122",
+          "sqcand": "100001608201",
+          "nm": "ANTONIO DA CRUZ FILGUEIRA NETO",
+          "nmu": "MARRECA FILHO",
+          "sgp": "PATRIOTA",
+          "com": "PATRIOTA",
+          "vap": "116246",
+          "seq": "7"
+        },
+        {
+          "n": "4010",
+          "sqcand": "100001607052",
+          "nm": "HILDELIS SILVA DUARTE JUNIOR",
+          "nmu": "DUARTE",
+          "sgp": "PSB",
+          "com": "PSB",
+          "vap": "111019",
+          "seq": "8"
+        },
+        {
+          "n": "1100",
+          "sqcand": "100001608073",
+          "nm": "AMANDA KELLY GENTIL GUIMARÃES ROSA",
+          "nmu": "AMANDA GENTIL ",
+          "sgp": "PP",
+          "com": "PP",
+          "vap": "108699",
+          "seq": "9"
+        },
+        {
+          "n": "6513",
+          "sqcand": "100001613708",
+          "nm": "MARCIO JERRY SARAIVA BARROSO",
+          "nmu": "MARCIO JERRY",
+          "sgp": "PC do B",
+          "com": "PC do B / PT / PV",
+          "vap": "106143",
+          "seq": "10"
+        },
+        {
+          "n": "1515",
+          "sqcand": "100001599082",
+          "nm": "ROSEANA SARNEY MURAD",
+          "nmu": "ROSEANA SARNEY",
+          "sgp": "MDB",
+          "com": "MDB",
+          "vap": "97008",
+          "seq": "11"
+        },
+        {
+          "n": "1919",
+          "sqcand": "100001614966",
+          "nm": "FÁBIO HENRIQUE DIAS DE MACEDO",
+          "nmu": "FÁBIO MACEDO",
+          "sgp": "PODE",
+          "com": "PODE",
+          "vap": "95270",
+          "seq": "12"
+        },
+        {
+          "n": "2200",
+          "sqcand": "100001603111",
+          "nm": "JOSÉ LOURENÇO BONFIM JÚNIOR",
+          "nmu": "JÚNIOR LOURENÇO",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "93123",
+          "seq": "13"
+        },
+        {
+          "n": "1340",
+          "sqcand": "100001613704",
+          "nm": "RUBENS PEREIRA E SILVA JUNIOR",
+          "nmu": "RUBENS PEREIRA JR",
+          "sgp": "PT",
+          "com": "PC do B / PT / PV",
+          "vap": "91872",
+          "seq": "14"
+        },
+        {
+          "n": "5511",
+          "sqcand": "100001602275",
+          "nm": "JOSIVALDO DOS SANTOS MELO",
+          "nmu": "JOSIVALDO JP",
+          "sgp": "PSD",
+          "com": "PSD",
+          "vap": "79699",
+          "seq": "15"
+        },
+        {
+          "n": "1010",
+          "sqcand": "100001602015",
+          "nm": "CLEBER VERDE CORDEIRO MENDES",
+          "nmu": "CLEBER VERDE",
+          "sgp": "REPUBLICANOS",
+          "com": "REPUBLICANOS",
+          "vap": "70275",
+          "seq": "16"
+        },
+        {
+          "n": "2244",
+          "sqcand": "100001603099",
+          "nm": "GILDENEMIR DE LIMA SOUSA",
+          "nmu": "PASTOR  GIL",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "69530",
+          "seq": "17"
+        },
+        {
+          "n": "1212",
+          "sqcand": "100001601143",
+          "nm": "MARCIO JOSE HONAISER",
+          "nmu": "MÁRCIO HONAISER",
+          "sgp": "PDT",
+          "com": "PDT",
+          "vap": "54547",
+          "seq": "18"
+        }
+      ]
+    },
+    {
+      "tpabr": "UF",
+      "cdabr": "MT",
+      "nmabr": "MATO GROSSO",
+      "tvap": "1730277",
+      "cand": [
+        {
+          "n": "4400",
+          "sqcand": "110001612770",
+          "nm": "FÁBIO PAULINO GARCIA",
+          "nmu": "FÁBIO GARCIA",
+          "sgp": "UNIÃO",
+          "com": "UNIÃO",
+          "vap": "98704",
+          "seq": "1"
+        },
+        {
+          "n": "2230",
+          "sqcand": "110001612761",
+          "nm": "ABILIO JACQUES BRUNINI MOUMER",
+          "nmu": "ABÍLIO",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "87072",
+          "seq": "2"
+        },
+        {
+          "n": "2210",
+          "sqcand": "110001612757",
+          "nm": "JOSÉ ANTÔNIO DOS SANTOS MEDEIROS",
+          "nmu": "JOSÉ MEDEIROS",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "82182",
+          "seq": "3"
+        },
+        {
+          "n": "1520",
+          "sqcand": "110001623293",
+          "nm": "JUAREZ ALVES DA COSTA",
+          "nmu": "JUAREZ COSTA",
+          "sgp": "MDB",
+          "com": "MDB",
+          "vap": "77528",
+          "seq": "4"
+        },
+        {
+          "n": "1555",
+          "sqcand": "110001623300",
+          "nm": "EMANUEL PINHEIRO DA SILVA PRIMO TEIXEIRA",
+          "nmu": "EMANUELZINHO",
+          "sgp": "MDB",
+          "com": "MDB",
+          "vap": "74720",
+          "seq": "5"
+        },
+        {
+          "n": "2202",
+          "sqcand": "110001612762",
+          "nm": "AMÁLIA SCUDELER DE BARROS SANTOS",
+          "nmu": "AMÁLIA BARROS",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "70294",
+          "seq": "6"
+        },
+        {
+          "n": "2222",
+          "sqcand": "110001612764",
+          "nm": "RUBIA FERNANDA DINIZ ROBSON SANTOS DE SIQUEIRA",
+          "nmu": "CORONEL FERNANDA",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "60304",
+          "seq": "7"
+        },
+        {
+          "n": "4422",
+          "sqcand": "110001612773",
+          "nm": "JONILDO JOSÉ DE ASSIS",
+          "nmu": "CORONEL ASSIS",
+          "sgp": "UNIÃO",
+          "com": "UNIÃO",
+          "vap": "47479",
+          "seq": "8"
+        }
+      ]
+    },
+    {
+      "tpabr": "UF",
+      "cdabr": "MS",
+      "nmabr": "MATO GROSSO DO SUL",
+      "tvap": "1356862",
+      "cand": [
+        {
+          "n": "2222",
+          "sqcand": "120001614258",
+          "nm": "MARCOS SBOROWSKI POLLON",
+          "nmu": "MARCOS POLLON",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "103111",
+          "seq": "1"
+        },
+        {
+          "n": "4545",
+          "sqcand": "120001612323",
+          "nm": "HUMBERTO REZENDE PEREIRA",
+          "nmu": "BETO PEREIRA",
+          "sgp": "PSDB",
+          "com": "CIDADANIA / PSDB",
+          "vap": "97872",
+          "seq": "2"
+        },
+        {
+          "n": "4567",
+          "sqcand": "120001612324",
+          "nm": "GERALDO RESENDE PEREIRA",
+          "nmu": "DR. GERALDO RESENDE",
+          "sgp": "PSDB",
+          "com": "CIDADANIA / PSDB",
+          "vap": "96519",
+          "seq": "3"
+        },
+        {
+          "n": "1331",
+          "sqcand": "120001652595",
+          "nm": "VANDER LUIZ DOS SANTOS LOUBET",
+          "nmu": "VANDER LOUBET",
+          "sgp": "PT",
+          "com": "PC do B / PT / PV",
+          "vap": "76571",
+          "seq": "4"
+        },
+        {
+          "n": "1367",
+          "sqcand": "120001652588",
+          "nm": "CAMILA BAZACHI JARA MARZOCHI",
+          "nmu": "CAMILA JARA",
+          "sgp": "PT",
+          "com": "PC do B / PT / PV",
+          "vap": "56552",
+          "seq": "5"
+        },
+        {
+          "n": "4512",
+          "sqcand": "120001612322",
+          "nm": "DAGOBERTO NOGUEIRA FILHO",
+          "nmu": "DAGOBERTO",
+          "sgp": "PSDB",
+          "com": "CIDADANIA / PSDB",
+          "vap": "48217",
+          "seq": "6"
+        },
+        {
+          "n": "1122",
+          "sqcand": "120001645933",
+          "nm": "LUIZ ALBERTO OVANDO",
+          "nmu": "DR. LUIZ OVANDO",
+          "sgp": "PP",
+          "com": "PP",
+          "vap": "45491",
+          "seq": "7"
+        },
+        {
+          "n": "2211",
+          "sqcand": "120001614260",
+          "nm": "RODOLFO OLIVEIRA NOGUEIRA",
+          "nmu": "RODOLFO NOGUEIRA",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "41773",
+          "seq": "8"
+        }
+      ]
+    },
+    {
+      "tpabr": "UF",
+      "cdabr": "MG",
+      "nmabr": "MINAS GERAIS",
+      "tvap": "11181098",
+      "cand": [
+        {
+          "n": "2222",
+          "sqcand": "130001611005",
+          "nm": "NIKOLAS FERREIRA DE OLIVEIRA",
+          "nmu": "NIKOLAS FERREIRA",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "1492047",
+          "seq": "1"
+        },
+        {
+          "n": "7040",
+          "sqcand": "130001608227",
+          "nm": "ANDRE LUIS GASPAR JANONES",
+          "nmu": "ANDRÉ JANONES",
+          "sgp": "AVANTE",
+          "com": "AVANTE",
+          "vap": "238967",
+          "seq": "2"
+        },
+        {
+          "n": "1212",
+          "sqcand": "130001606697",
+          "nm": "DUDA SALABERT ROSA",
+          "nmu": "DUDA SALABERT",
+          "sgp": "PDT",
+          "com": "PDT",
+          "vap": "208332",
+          "seq": "3"
+        },
+        {
+          "n": "1312",
+          "sqcand": "130001607277",
+          "nm": "REGINALDO LÁZARO DE OLIVEIRA LOPES",
+          "nmu": "REGINALDO LOPES",
+          "sgp": "PT",
+          "com": "PC do B / PT / PV",
+          "vap": "196760",
+          "seq": "4"
+        },
+        {
+          "n": "1313",
+          "sqcand": "130001607258",
+          "nm": "ROGÉRIO CORREIA DE MOURA BAPTISTA",
+          "nmu": "ROGÉRIO CORREIA",
+          "sgp": "PT",
+          "com": "PC do B / PT / PV",
+          "vap": "185918",
+          "seq": "5"
+        },
+        {
+          "n": "5555",
+          "sqcand": "130001604337",
+          "nm": "DIEGO LEONARDO DE ANDRADE CARVALHO",
+          "nmu": "DIEGO ANDRADE",
+          "sgp": "PSD",
+          "com": "PSD",
+          "vap": "170181",
+          "seq": "6"
+        },
+        {
+          "n": "5133",
+          "sqcand": "130001596009",
+          "nm": "FREDERICO BORGES DA COSTA",
+          "nmu": "FRED COSTA",
+          "sgp": "PATRIOTA",
+          "com": "PATRIOTA",
+          "vap": "158453",
+          "seq": "7"
+        },
+        {
+          "n": "2200",
+          "sqcand": "130001610999",
+          "nm": "JOSÉ VITOR DE RESENDE AGUIAR",
+          "nmu": "ZÉ VITOR",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "152748",
+          "seq": "8"
+        },
+        {
+          "n": "5505",
+          "sqcand": "130001604325",
+          "nm": "MISAEL ARTUR FERREIRA VARELLA",
+          "nmu": "MISAEL VARELLA",
+          "sgp": "PSD",
+          "com": "PSD",
+          "vap": "149398",
+          "seq": "9"
+        },
+        {
+          "n": "4445",
+          "sqcand": "130001607619",
+          "nm": "RAFAEL TADEU SIMÕES",
+          "nmu": "RAFAEL SIMOES",
+          "sgp": "UNIÃO",
+          "com": "UNIÃO",
+          "vap": "144924",
+          "seq": "10"
+        },
+        {
+          "n": "1122",
+          "sqcand": "130001615436",
+          "nm": "ANTONIO PINHEIRO NETO",
+          "nmu": "PINHEIRINHO",
+          "sgp": "PP",
+          "com": "PP",
+          "vap": "136575",
+          "seq": "11"
+        },
+        {
+          "n": "1378",
+          "sqcand": "130001607265",
+          "nm": "PAULO JOSÉ CARLOS GUEDES",
+          "nmu": "PAULO GUEDES",
+          "sgp": "PT",
+          "com": "PC do B / PT / PV",
+          "vap": "134494",
+          "seq": "12"
+        },
+        {
+          "n": "1307",
+          "sqcand": "130001607254",
+          "nm": "ODAIR JOSÉ DA CUNHA",
+          "nmu": "ODAIR CUNHA",
+          "sgp": "PT",
+          "com": "PC do B / PT / PV",
+          "vap": "129146",
+          "seq": "13"
+        },
+        {
+          "n": "9090",
+          "sqcand": "130001607568",
+          "nm": "WELITON FERNANDES PRADO",
+          "nmu": "WELITON PRADO",
+          "sgp": "PROS",
+          "com": "PROS",
+          "vap": "126214",
+          "seq": "14"
+        },
+        {
+          "n": "1010",
+          "sqcand": "130001619779",
+          "nm": "GILBERTO APARECIDO ABRAMO",
+          "nmu": "GILBERTO ABRAMO",
+          "sgp": "REPUBLICANOS",
+          "com": "REPUBLICANOS",
+          "vap": "123370",
+          "seq": "15"
+        },
+        {
+          "n": "1515",
+          "sqcand": "130001668912",
+          "nm": "HERCILIO ARAUJO DINIZ FILHO",
+          "nmu": "HERCILIO COELHO DINIZ",
+          "sgp": "MDB",
+          "com": "MDB",
+          "vap": "122819",
+          "seq": "16"
+        },
+        {
+          "n": "4450",
+          "sqcand": "130001607620",
+          "nm": "RODRIGO BATISTA DE CASTRO",
+          "nmu": "RODRIGO DE CASTRO",
+          "sgp": "UNIÃO",
+          "com": "UNIÃO",
+          "vap": "122571",
+          "seq": "17"
+        },
+        {
+          "n": "2240",
+          "sqcand": "130001611018",
+          "nm": "EMIDIO ALVES MADEIRA JUNIOR",
+          "nmu": "EMIDINHO MADEIRA",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "119101",
+          "seq": "18"
+        },
+        {
+          "n": "7011",
+          "sqcand": "130001603592",
+          "nm": "GREYCE DE QUEIROZ ELIAS",
+          "nmu": "GREYCE ELIAS",
+          "sgp": "AVANTE",
+          "com": "AVANTE",
+          "vap": "110346",
+          "seq": "19"
+        },
+        {
+          "n": "7070",
+          "sqcand": "130001603563",
+          "nm": "LUIS HENRIQUE DE OLIVEIRA RESENDE",
+          "nmu": "LUIS TIBÉ",
+          "sgp": "AVANTE",
+          "com": "AVANTE",
+          "vap": "107523",
+          "seq": "20"
+        },
+        {
+          "n": "4545",
+          "sqcand": "130001613373",
+          "nm": "PAULO ABI-ACKEL",
+          "nmu": "PAULO ABI-ACKEL",
+          "sgp": "PSDB",
+          "com": "CIDADANIA / PSDB",
+          "vap": "105383",
+          "seq": "21"
+        },
+        {
+          "n": "1510",
+          "sqcand": "130001668913",
+          "nm": "NEWTON CARDOSO JÚNIOR",
+          "nmu": "NEWTON CARDOSO JR",
+          "sgp": "MDB",
+          "com": "MDB",
+          "vap": "103056",
+          "seq": "22"
+        },
+        {
+          "n": "2015",
+          "sqcand": "130001671754",
+          "nm": "EUCLYDES MARCOS PETTERSEN NETO",
+          "nmu": "EUCLYDES PETTERSEN",
+          "sgp": "PSC",
+          "com": "PSC",
+          "vap": "101892",
+          "seq": "23"
+        },
+        {
+          "n": "5088",
+          "sqcand": "130001615168",
+          "nm": "CÉLIA NUNES CORREA",
+          "nmu": "CÉLIA XAKRIABÁ",
+          "sgp": "PSOL",
+          "com": "PSOL / REDE",
+          "vap": "101154",
+          "seq": "24"
+        },
+        {
+          "n": "7077",
+          "sqcand": "130001603602",
+          "nm": "BRUNO SOUZA FARIAS",
+          "nmu": "BRUNO FARIAS",
+          "sgp": "AVANTE",
+          "com": "AVANTE",
+          "vap": "97246",
+          "seq": "25"
+        },
+        {
+          "n": "5544",
+          "sqcand": "130001604328",
+          "nm": "STEFANO AGUIAR DOS SANTOS",
+          "nmu": "STEFANO AGUIAR",
+          "sgp": "PSD",
+          "com": "PSD",
+          "vap": "96503",
+          "seq": "26"
+        },
+        {
+          "n": "1111",
+          "sqcand": "130001615433",
+          "nm": "DIMAS FABIANO TOLEDO JUNIOR",
+          "nmu": "DIMAS FABIANO",
+          "sgp": "PP",
+          "com": "PP",
+          "vap": "96395",
+          "seq": "27"
+        },
+        {
+          "n": "2260",
+          "sqcand": "130001611016",
+          "nm": "DOMINGOS SÁVIO CAMPOS RESENDE",
+          "nmu": "DOMINGOS SÁVIO",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "90236",
+          "seq": "28"
+        },
+        {
+          "n": "5193",
+          "sqcand": "130001596021",
+          "nm": "PEDRO DOSHIKAZU PIANCHAO AIHARA",
+          "nmu": "PEDRO AIHARA",
+          "sgp": "PATRIOTA",
+          "com": "PATRIOTA",
+          "vap": "89404",
+          "seq": "29"
+        },
+        {
+          "n": "1333",
+          "sqcand": "130001607244",
+          "nm": "PATRUS ANANIAS DE SOUSA",
+          "nmu": "PATRUS ANANIAS",
+          "sgp": "PT",
+          "com": "PC do B / PT / PV",
+          "vap": "87893",
+          "seq": "30"
+        },
+        {
+          "n": "7777",
+          "sqcand": "130001612991",
+          "nm": "JOSÉ SILVA SOARES",
+          "nmu": "ZÉ SILVA",
+          "sgp": "SOLIDARIEDADE",
+          "com": "SOLIDARIEDADE",
+          "vap": "86042",
+          "seq": "31"
+        },
+        {
+          "n": "1334",
+          "sqcand": "130001607270",
+          "nm": "DANDARA TONANTZIN SILVA CASTRO",
+          "nmu": "DANDARA",
+          "sgp": "PT",
+          "com": "PC do B / PT / PV",
+          "vap": "86034",
+          "seq": "32"
+        },
+        {
+          "n": "1315",
+          "sqcand": "130001607276",
+          "nm": "JOÃO CARLOS SIQUEIRA",
+          "nmu": "PADRE JOÃO",
+          "sgp": "PT",
+          "com": "PC do B / PT / PV",
+          "vap": "85718",
+          "seq": "33"
+        },
+        {
+          "n": "4500",
+          "sqcand": "130001613348",
+          "nm": "AÉCIO NEVES DA CUNHA",
+          "nmu": "AÉCIO NEVES",
+          "sgp": "PSDB",
+          "com": "CIDADANIA / PSDB",
+          "vap": "85341",
+          "seq": "34"
+        },
+        {
+          "n": "5152",
+          "sqcand": "130001596003",
+          "nm": "FREDERICO DE CASTRO ESCALEIRA",
+          "nmu": "DR. FREDERICO",
+          "sgp": "PATRIOTA",
+          "com": "PATRIOTA",
+          "vap": "84771",
+          "seq": "35"
+        },
+        {
+          "n": "1339",
+          "sqcand": "130001607253",
+          "nm": "MIGUEL ÂNGELO MONTEIRO ANDRADE",
+          "nmu": "MIGUEL ÂNGELO",
+          "sgp": "PT",
+          "com": "PC do B / PT / PV",
+          "vap": "84173",
+          "seq": "36"
+        },
+        {
+          "n": "2210",
+          "sqcand": "130001611021",
+          "nm": "MAURICIO LUIZ DE SOUZA",
+          "nmu": "MAURICIO DO VOLEI",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "83396",
+          "seq": "37"
+        },
+        {
+          "n": "4444",
+          "sqcand": "130001607654",
+          "nm": "MARCELO EDUARDO FREITAS",
+          "nmu": "DELEGADO MARCELO FREITAS",
+          "sgp": "UNIÃO",
+          "com": "UNIÃO",
+          "vap": "82894",
+          "seq": "38"
+        },
+        {
+          "n": "1363",
+          "sqcand": "130001607248",
+          "nm": "JOSÉ LEONARDO COSTA MONTEIRO",
+          "nmu": "LEONARDO MONTEIRO",
+          "sgp": "PT",
+          "com": "PC do B / PT / PV",
+          "vap": "81008",
+          "seq": "39"
+        },
+        {
+          "n": "1199",
+          "sqcand": "130001615412",
+          "nm": "ANA PAULA PROCOPIO JUNQUEIRA",
+          "nmu": "ANA PAULA JUNQUEIRA LEAO",
+          "sgp": "PP",
+          "com": "PP",
+          "vap": "77990",
+          "seq": "40"
+        },
+        {
+          "n": "2277",
+          "sqcand": "130001610990",
+          "nm": "EROS FERREIRA BIONDINI",
+          "nmu": "EROS BIONDINI",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "77900",
+          "seq": "41"
+        },
+        {
+          "n": "1999",
+          "sqcand": "130001634117",
+          "nm": "IGOR TARCIANO TIMO",
+          "nmu": "IGOR TIMO",
+          "sgp": "PODE",
+          "com": "PODE",
+          "vap": "74465",
+          "seq": "42"
+        },
+        {
+          "n": "1314",
+          "sqcand": "130001607240",
+          "nm": "ANA CRISTINA DE LIMA PIMENTEL",
+          "nmu": "ANA PIMENTEL",
+          "sgp": "PT",
+          "com": "PC do B / PT / PV",
+          "vap": "72698",
+          "seq": "43"
+        },
+        {
+          "n": "1234",
+          "sqcand": "130001606709",
+          "nm": "MÁRIO LÚCIO HERINGER",
+          "nmu": "DR MÁRIO HERINGER",
+          "sgp": "PDT",
+          "com": "PDT",
+          "vap": "68717",
+          "seq": "44"
+        },
+        {
+          "n": "1080",
+          "sqcand": "130001619781",
+          "nm": "LAFAYETTE LUIZ DOORGAL DE ANDRADA",
+          "nmu": "LAFAYETTE ANDRADA",
+          "sgp": "REPUBLICANOS",
+          "com": "REPUBLICANOS",
+          "vap": "68677",
+          "seq": "45"
+        },
+        {
+          "n": "5500",
+          "sqcand": "130001604306",
+          "nm": "LUIZ FERNANDO RAMOS FARIA",
+          "nmu": "LUIZ FERNANDO",
+          "sgp": "PSD",
+          "com": "PSD",
+          "vap": "68550",
+          "seq": "46"
+        },
+        {
+          "n": "1919",
+          "sqcand": "130001634141",
+          "nm": "NELI PEREIRA DE AQUINO",
+          "nmu": "NELY AQUINO",
+          "sgp": "PODE",
+          "com": "PODE",
+          "vap": "66866",
+          "seq": "47"
+        },
+        {
+          "n": "2244",
+          "sqcand": "130001611024",
+          "nm": "SAMUEL JOSÉ RODRIGUES DE VIANA",
+          "nmu": "SAMUEL VIANA",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "62704",
+          "seq": "48"
+        },
+        {
+          "n": "2238",
+          "sqcand": "130001610992",
+          "nm": "GERALDO JUNIO DO AMARAL",
+          "nmu": "JUNIO AMARAL",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "59297",
+          "seq": "49"
+        },
+        {
+          "n": "7010",
+          "sqcand": "130001603582",
+          "nm": "IONE MARIA MOREIRA DIAS BARBOSA",
+          "nmu": "DELEGADA IONE BARBOSA",
+          "sgp": "AVANTE",
+          "com": "AVANTE",
+          "vap": "52630",
+          "seq": "50"
+        },
+        {
+          "n": "2233",
+          "sqcand": "130001611001",
+          "nm": "LINCOLN DINIZ PORTELA",
+          "nmu": "LINCOLN PORTELA",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "42328",
+          "seq": "51"
+        },
+        {
+          "n": "2215",
+          "sqcand": "130001611025",
+          "nm": "ROSÂNGELA DE OLIVEIRA CAMPOS REIS",
+          "nmu": "ROSÂNGELA REIS",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "42009",
+          "seq": "52"
+        },
+        {
+          "n": "2217",
+          "sqcand": "130001611029",
+          "nm": "MARCELO HENRIQUE TEIXEIRA DIAS",
+          "nmu": "MARCELO ÁLVARO ANTÔNIO",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "31025",
+          "seq": "53"
+        }
+      ]
+    },
+    {
+      "tpabr": "UF",
+      "cdabr": "PR",
+      "nmabr": "PARANÁ",
+      "tvap": "6038588",
+      "cand": [
+        {
+          "n": "1919",
+          "sqcand": "160001654827",
+          "nm": "DELTAN MARTINAZZO DALLAGNOL",
+          "nmu": "DELTAN DALLAGNOL",
+          "sgp": "PODE",
+          "com": "PODE",
+          "vap": "344917",
+          "seq": "1"
+        },
+        {
+          "n": "1313",
+          "sqcand": "160001614512",
+          "nm": "GLEISI HELENA HOFFMANN",
+          "nmu": "GLEISI",
+          "sgp": "PT",
+          "com": "PC do B / PT / PV",
+          "vap": "261247",
+          "seq": "2"
+        },
+        {
+          "n": "2201",
+          "sqcand": "160001622028",
+          "nm": "FILIPE BARROS BAPTISTA DE TOLEDO RIBEIRO",
+          "nmu": "FILIPE BARROS",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "249507",
+          "seq": "3"
+        },
+        {
+          "n": "5501",
+          "sqcand": "160001622285",
+          "nm": "CARLOS ALBERTO GEBRIM PRETO",
+          "nmu": "BETO PRETO",
+          "sgp": "PSD",
+          "com": "PSD",
+          "vap": "206898",
+          "seq": "4"
+        },
+        {
+          "n": "5555",
+          "sqcand": "160001622302",
+          "nm": "SANDRO ALEX CRUZ DE OLIVEIRA",
+          "nmu": "SANDRO ALEX",
+          "sgp": "PSD",
+          "com": "PSD",
+          "vap": "168157",
+          "seq": "5"
+        },
+        {
+          "n": "4444",
+          "sqcand": "160001654655",
+          "nm": "LUIS FELIPE BONATTO FRANCISCHINI",
+          "nmu": "FELIPE FRANCISCHINI",
+          "sgp": "UNIÃO",
+          "com": "UNIÃO",
+          "vap": "164342",
+          "seq": "6"
+        },
+        {
+          "n": "5590",
+          "sqcand": "160001622298",
+          "nm": "GILSON CARDOSO FAHUR",
+          "nmu": "SARGENTO FAHUR",
+          "sgp": "PSD",
+          "com": "PSD",
+          "vap": "161500",
+          "seq": "7"
+        },
+        {
+          "n": "2222",
+          "sqcand": "160001622024",
+          "nm": "FERNANDO LUCIO GIACOBO",
+          "nmu": "GIACOBO",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "152342",
+          "seq": "8"
+        },
+        {
+          "n": "4411",
+          "sqcand": "160001654671",
+          "nm": "MATHEUS ARAUJO LAIOLA",
+          "nmu": "DELEGADO MATHEUS LAIOLA",
+          "sgp": "UNIÃO",
+          "com": "UNIÃO",
+          "vap": "132759",
+          "seq": "9"
+        },
+        {
+          "n": "1363",
+          "sqcand": "160001614521",
+          "nm": "ANA CAROLINA MOURA MELO DARTORA",
+          "nmu": "CAROL DARTORA",
+          "sgp": "PT",
+          "com": "PC do B / PT / PV",
+          "vap": "130654",
+          "seq": "10"
+        },
+        {
+          "n": "1310",
+          "sqcand": "160001614527",
+          "nm": "JOSE CARLOS BECKER DE OLIVEIRA E SILVA",
+          "nmu": "ZECA DIRCEU",
+          "sgp": "PT",
+          "com": "PC do B / PT / PV",
+          "vap": "123033",
+          "seq": "11"
+        },
+        {
+          "n": "1199",
+          "sqcand": "160001603306",
+          "nm": "SEBASTIÃO HENRIQUE DE MEDEIROS",
+          "nmu": "TIÃO MEDEIROS",
+          "sgp": "PP",
+          "com": "PP",
+          "vap": "109344",
+          "seq": "12"
+        },
+        {
+          "n": "1111",
+          "sqcand": "160001603295",
+          "nm": "PEDRO DEBONI LUPION MELLO",
+          "nmu": "PEDRO LUPION",
+          "sgp": "PP",
+          "com": "PP",
+          "vap": "109043",
+          "seq": "13"
+        },
+        {
+          "n": "1151",
+          "sqcand": "160001603317",
+          "nm": "RICARDO JOSÉ MAGALHÃES BARROS",
+          "nmu": "RICARDO BARROS",
+          "sgp": "PP",
+          "com": "PP",
+          "vap": "107022",
+          "seq": "14"
+        },
+        {
+          "n": "1512",
+          "sqcand": "160001614556",
+          "nm": "SERGIO DE SOUZA",
+          "nmu": "SÉRGIO SOUZA",
+          "sgp": "MDB",
+          "com": "MDB",
+          "vap": "105661",
+          "seq": "15"
+        },
+        {
+          "n": "4040",
+          "sqcand": "160001621821",
+          "nm": "LUCIANO DUCCI",
+          "nmu": "LUCIANO DUCCI",
+          "sgp": "PSB",
+          "com": "PSB",
+          "vap": "95521",
+          "seq": "16"
+        },
+        {
+          "n": "1330",
+          "sqcand": "160001614525",
+          "nm": "ENIO JOSÉ VERRI",
+          "nmu": "ENIO VERRI",
+          "sgp": "PT",
+          "com": "PC do B / PT / PV",
+          "vap": "95172",
+          "seq": "17"
+        },
+        {
+          "n": "4343",
+          "sqcand": "160001614510",
+          "nm": "ALIEL MACHADO BARK",
+          "nmu": "ALIEL MACHADO",
+          "sgp": "PV",
+          "com": "PC do B / PT / PV",
+          "vap": "94839",
+          "seq": "18"
+        },
+        {
+          "n": "1331",
+          "sqcand": "160001614523",
+          "nm": "ANTONIO TADEU VENERI",
+          "nmu": "TADEU VENERI",
+          "sgp": "PT",
+          "com": "PC do B / PT / PV",
+          "vap": "84758",
+          "seq": "19"
+        },
+        {
+          "n": "5512",
+          "sqcand": "160001622301",
+          "nm": "PAULO HENRIQUE COLETTI FERNANDES",
+          "nmu": "PAULO LITRO",
+          "sgp": "PSD",
+          "com": "PSD",
+          "vap": "82707",
+          "seq": "20"
+        },
+        {
+          "n": "5500",
+          "sqcand": "160001622296",
+          "nm": "LEANDRE DAL PONTE",
+          "nmu": "LEANDRE",
+          "sgp": "PSD",
+          "com": "PSD",
+          "vap": "80359",
+          "seq": "21"
+        },
+        {
+          "n": "5511",
+          "sqcand": "160001622297",
+          "nm": "LUÍSA CANZIANI DOS SANTOS SILVEIRA",
+          "nmu": "LUÍSA CANZIANI",
+          "sgp": "PSD",
+          "com": "PSD",
+          "vap": "74643",
+          "seq": "22"
+        },
+        {
+          "n": "9090",
+          "sqcand": "160001621909",
+          "nm": "ANTONIO WANDSCHEER",
+          "nmu": "TONINHO WANDSCHEER",
+          "sgp": "PROS",
+          "com": "PROS",
+          "vap": "74263",
+          "seq": "23"
+        },
+        {
+          "n": "5522",
+          "sqcand": "160001622293",
+          "nm": "LUIZ HILOSHI NISHIMORI",
+          "nmu": "LUIZ NISHIMORI",
+          "sgp": "PSD",
+          "com": "PSD",
+          "vap": "73202",
+          "seq": "24"
+        },
+        {
+          "n": "4455",
+          "sqcand": "160001654677",
+          "nm": "GERALDO GABRIEL MENDES",
+          "nmu": "GERALDO MENDES",
+          "sgp": "UNIÃO",
+          "com": "UNIÃO",
+          "vap": "71990",
+          "seq": "25"
+        },
+        {
+          "n": "2277",
+          "sqcand": "160001622020",
+          "nm": "NELSI COGUETTO MARIA",
+          "nmu": "VERMELHO",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "70790",
+          "seq": "26"
+        },
+        {
+          "n": "1000",
+          "sqcand": "160001654834",
+          "nm": "DIEGO ALEXSANDER GONÇALO PAULA GARCIA",
+          "nmu": "DIEGO GARCIA",
+          "sgp": "REPUBLICANOS",
+          "com": "REPUBLICANOS",
+          "vap": "65416",
+          "seq": "27"
+        },
+        {
+          "n": "4545",
+          "sqcand": "160001603723",
+          "nm": "CARLOS ALBERTO RICHA",
+          "nmu": "BETO RICHA",
+          "sgp": "PSDB",
+          "com": "CIDADANIA / PSDB",
+          "vap": "64868",
+          "seq": "28"
+        },
+        {
+          "n": "1122",
+          "sqcand": "160001603297",
+          "nm": "DILCEU JOÃO SPERAFICO",
+          "nmu": "DILCEU SPERAFICO",
+          "sgp": "PP",
+          "com": "PP",
+          "vap": "61689",
+          "seq": "29"
+        },
+        {
+          "n": "4433",
+          "sqcand": "160001654666",
+          "nm": "NELSON FERNANDO PADOVANI",
+          "nmu": "PADOVANI",
+          "sgp": "UNIÃO",
+          "com": "UNIÃO",
+          "vap": "57185",
+          "seq": "30"
+        }
+      ]
+    },
+    {
+      "tpabr": "UF",
+      "cdabr": "PB",
+      "nmabr": "PARAÍBA",
+      "tvap": "2190544",
+      "cand": [
+        {
+          "n": "1011",
+          "sqcand": "150001619545",
+          "nm": "HUGO MOTTA WANDERLEY DA NOBREGA",
+          "nmu": "HUGO MOTTA",
+          "sgp": "REPUBLICANOS",
+          "com": "REPUBLICANOS",
+          "vap": "158171",
+          "seq": "1"
+        },
+        {
+          "n": "1111",
+          "sqcand": "150001612065",
+          "nm": "AGUINALDO VELLOSO BORGES RIBEIRO",
+          "nmu": "AGUINALDO RIBEIRO",
+          "sgp": "PP",
+          "com": "PP",
+          "vap": "135001",
+          "seq": "2"
+        },
+        {
+          "n": "2210",
+          "sqcand": "150001718239",
+          "nm": "GILBERTO GOMES DA SILVA",
+          "nmu": "CABO GILBERTO SILVA",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "126876",
+          "seq": "3"
+        },
+        {
+          "n": "1144",
+          "sqcand": "150001612074",
+          "nm": "FRANCISCO EMERSON ASSIS DE LUCENA",
+          "nmu": "MERSINHO LUCENA",
+          "sgp": "PP",
+          "com": "PP",
+          "vap": "114818",
+          "seq": "4"
+        },
+        {
+          "n": "2011",
+          "sqcand": "150001612086",
+          "nm": "ROMERO RODRIGUES VEIGA",
+          "nmu": "ROMERO RODRIGUES",
+          "sgp": "PSC",
+          "com": "PSC",
+          "vap": "114573",
+          "seq": "5"
+        },
+        {
+          "n": "1044",
+          "sqcand": "150001619544",
+          "nm": "CÁSSIO MURILO GALDINO DE ARAÚJO",
+          "nmu": "MURILO GALDINO",
+          "sgp": "REPUBLICANOS",
+          "com": "REPUBLICANOS",
+          "vap": "112891",
+          "seq": "6"
+        },
+        {
+          "n": "2222",
+          "sqcand": "150001718233",
+          "nm": "JOSÉ WELLINGTON ROBERTO",
+          "nmu": "WELLINGTON ROBERTO",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "109067",
+          "seq": "7"
+        },
+        {
+          "n": "2030",
+          "sqcand": "150001612089",
+          "nm": "RUY MANUEL CARNEIRO BARBOSA DE AÇA BELCHIOR",
+          "nmu": "RUY CARNEIRO",
+          "sgp": "PSC",
+          "com": "PSC",
+          "vap": "102531",
+          "seq": "8"
+        },
+        {
+          "n": "1010",
+          "sqcand": "150001619548",
+          "nm": "JOSÉ WILSON SANTIAGO",
+          "nmu": "WILSON SANTIAGO",
+          "sgp": "REPUBLICANOS",
+          "com": "REPUBLICANOS",
+          "vap": "84407",
+          "seq": "9"
+        },
+        {
+          "n": "4040",
+          "sqcand": "150001621679",
+          "nm": "GERVASIO AGRIPINO MAIA",
+          "nmu": "GERVASIO MAIA",
+          "sgp": "PSB",
+          "com": "PSB",
+          "vap": "69405",
+          "seq": "10"
+        },
+        {
+          "n": "4412",
+          "sqcand": "150001603195",
+          "nm": "DAMIÃO FELICIANO DA SILVA",
+          "nmu": "DR. DAMIÃO",
+          "sgp": "UNIÃO",
+          "com": "UNIÃO",
+          "vap": "64023",
+          "seq": "11"
+        },
+        {
+          "n": "1312",
+          "sqcand": "150001619538",
+          "nm": "LUIZ ALBUQUERQUE COUTO",
+          "nmu": "LUIZ COUTO",
+          "sgp": "PT",
+          "com": "PC do B / PT / PV",
+          "vap": "54851",
+          "seq": "12"
+        }
+      ]
+    },
+    {
+      "tpabr": "UF",
+      "cdabr": "PA",
+      "nmabr": "PARÁ",
+      "tvap": "4521516",
+      "cand": [
+        {
+          "n": "1567",
+          "sqcand": "140001621346",
+          "nm": "ALESSANDRA HABER CARVALHO SANTOS",
+          "nmu": "DRA ALESSANDRA HABER",
+          "sgp": "MDB",
+          "com": "MDB",
+          "vap": "258907",
+          "seq": "1"
+        },
+        {
+          "n": "2222",
+          "sqcand": "140001598311",
+          "nm": "EDER MAURO CARDOSO BARRA",
+          "nmu": "DELEGADO EDER MAURO",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "205543",
+          "seq": "2"
+        },
+        {
+          "n": "1515",
+          "sqcand": "140001621343",
+          "nm": "ELCIONE THEREZINHA ZAHLUTH BARBALHO",
+          "nmu": "ELCIONE",
+          "sgp": "MDB",
+          "com": "MDB",
+          "vap": "175498",
+          "seq": "3"
+        },
+        {
+          "n": "1555",
+          "sqcand": "140001621340",
+          "nm": "JOSE BENITO PRIANTE JUNIOR",
+          "nmu": "PRIANTE",
+          "sgp": "MDB",
+          "com": "MDB",
+          "vap": "167275",
+          "seq": "4"
+        },
+        {
+          "n": "1577",
+          "sqcand": "140001621348",
+          "nm": "RENILCE CONCEIÇÃO NICODEMOS DE ALBUQUERQUE",
+          "nmu": "RENILCE NICODEMOS",
+          "sgp": "MDB",
+          "com": "MDB",
+          "vap": "162208",
+          "seq": "5"
+        },
+        {
+          "n": "5588",
+          "sqcand": "140001620797",
+          "nm": "JOÃO FERRARI JÚNIOR",
+          "nmu": "JÚNIOR FERRARI",
+          "sgp": "PSD",
+          "com": "PSD",
+          "vap": "160342",
+          "seq": "6"
+        },
+        {
+          "n": "1313",
+          "sqcand": "140001620897",
+          "nm": "DILVANDA FURTADO FARO",
+          "nmu": "DILVANDA FARO",
+          "sgp": "PT",
+          "com": "PC do B / PT / PV",
+          "vap": "150065",
+          "seq": "7"
+        },
+        {
+          "n": "4444",
+          "sqcand": "140001604547",
+          "nm": "CELSO SABINO DE OLIVEIRA",
+          "nmu": "CELSO SABINO",
+          "sgp": "UNIÃO",
+          "com": "UNIÃO",
+          "vap": "142326",
+          "seq": "8"
+        },
+        {
+          "n": "1511",
+          "sqcand": "140001621342",
+          "nm": "ANTONIO LEOCADIO DOS SANTOS",
+          "nmu": "ANTONIO DOIDO",
+          "sgp": "MDB",
+          "com": "MDB",
+          "vap": "126535",
+          "seq": "9"
+        },
+        {
+          "n": "1512",
+          "sqcand": "140001621344",
+          "nm": "KENISTON DE JESUS REGO BRAGA",
+          "nmu": "KENISTON",
+          "sgp": "MDB",
+          "com": "MDB",
+          "vap": "126027",
+          "seq": "10"
+        },
+        {
+          "n": "1510",
+          "sqcand": "140001621339",
+          "nm": "ANDREIA BRITO GONÇALVES SIQUEIRA",
+          "nmu": "ANDREIA SIQUEIRA",
+          "sgp": "MDB",
+          "com": "MDB",
+          "vap": "125004",
+          "seq": "11"
+        },
+        {
+          "n": "2200",
+          "sqcand": "140001598308",
+          "nm": "JOAQUIM PASSARINHO PINTO DE SOUZA PORTO",
+          "nmu": "JOAQUIM PASSARINHO",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "122553",
+          "seq": "12"
+        },
+        {
+          "n": "2217",
+          "sqcand": "140001598314",
+          "nm": "LENILDO MENDES DOS SANTOS SERTÃO",
+          "nmu": "DELEGADO CAVEIRA",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "106349",
+          "seq": "13"
+        },
+        {
+          "n": "1500",
+          "sqcand": "140001621345",
+          "nm": "OLIVAL HENRIQUE MARQUES DE SOUZA",
+          "nmu": "OLIVAL MARQUES",
+          "sgp": "MDB",
+          "com": "MDB",
+          "vap": "102435",
+          "seq": "14"
+        },
+        {
+          "n": "1321",
+          "sqcand": "140001620904",
+          "nm": "AIRTON LUIZ FALEIRO",
+          "nmu": "AIRTON FALEIRO",
+          "sgp": "PT",
+          "com": "PC do B / PT / PV",
+          "vap": "79862",
+          "seq": "15"
+        },
+        {
+          "n": "1522",
+          "sqcand": "140001621349",
+          "nm": "HENDERSON LIRA PINTO",
+          "nmu": "HENDERSON PINTO",
+          "sgp": "MDB",
+          "com": "MDB",
+          "vap": "74746",
+          "seq": "16"
+        },
+        {
+          "n": "5522",
+          "sqcand": "140001620801",
+          "nm": "RAIMUNDO JOSE PEREIRA DOS SANTOS",
+          "nmu": "RAIMUNDO SANTOS",
+          "sgp": "PSD",
+          "com": "PSD",
+          "vap": "62366",
+          "seq": "17"
+        }
+      ]
+    },
+    {
+      "tpabr": "UF",
+      "cdabr": "PE",
+      "nmabr": "PERNAMBUCO",
+      "tvap": "4969863",
+      "cand": [
+        {
+          "n": "2222",
+          "sqcand": "170001609080",
+          "nm": "ANDRÉ FERREIRA RODRIGUES",
+          "nmu": "ANDRÉ FERREIRA",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "273267",
+          "seq": "1"
+        },
+        {
+          "n": "1122",
+          "sqcand": "170001618605",
+          "nm": "ERICA CLARISSA BORBA CORDEIRO DE MOURA",
+          "nmu": "CLARISSA TÉRCIO",
+          "sgp": "PP",
+          "com": "PP",
+          "vap": "240511",
+          "seq": "2"
+        },
+        {
+          "n": "4040",
+          "sqcand": "170001619899",
+          "nm": "PEDRO HENRIQUE DE ANDRADE LIMA CARNEIRO CAMPOS",
+          "nmu": "PEDRO CAMPOS",
+          "sgp": "PSB",
+          "com": "PSB",
+          "vap": "172526",
+          "seq": "3"
+        },
+        {
+          "n": "1010",
+          "sqcand": "170001595473",
+          "nm": "SILVIO SERAFIM COSTA FILHO",
+          "nmu": "SILVIO COSTA FILHO",
+          "sgp": "REPUBLICANOS",
+          "com": "REPUBLICANOS",
+          "vap": "162056",
+          "seq": "4"
+        },
+        {
+          "n": "4401",
+          "sqcand": "170001609122",
+          "nm": "FERNANDO BEZERRA DE SOUZA COELHO FILHO",
+          "nmu": "FERNANDO FILHO",
+          "sgp": "UNIÃO",
+          "com": "UNIÃO",
+          "vap": "155305",
+          "seq": "5"
+        },
+        {
+          "n": "7070",
+          "sqcand": "170001610411",
+          "nm": "WALDEMAR DE ANDRADA IGNÁCIO DE OLIVEIRA",
+          "nmu": "WALDEMAR OLIVEIRA",
+          "sgp": "AVANTE",
+          "com": "AVANTE",
+          "vap": "141386",
+          "seq": "6"
+        },
+        {
+          "n": "1818",
+          "sqcand": "170001619597",
+          "nm": "TÚLIO GADELHA SALES DE MELO",
+          "nmu": "TÚLIO GADELHA",
+          "sgp": "REDE",
+          "com": "PSOL / REDE",
+          "vap": "134391",
+          "seq": "7"
+        },
+        {
+          "n": "1314",
+          "sqcand": "170001609028",
+          "nm": "JOSE CARLOS VERAS DOS SANTOS",
+          "nmu": "CARLOS VERAS",
+          "sgp": "PT",
+          "com": "PC do B / PT / PV",
+          "vap": "127482",
+          "seq": "8"
+        },
+        {
+          "n": "1111",
+          "sqcand": "170001618611",
+          "nm": "EDUARDO HENRIQUE DA FONTE DE ALBUQUERQUE SILVA",
+          "nmu": "EDUARDO DA FONTE",
+          "sgp": "PP",
+          "com": "PP",
+          "vap": "124850",
+          "seq": "9"
+        },
+        {
+          "n": "4333",
+          "sqcand": "170001609025",
+          "nm": "CLODOALDO MAGALHÃES OLIVEIRA LYRA",
+          "nmu": "CLODOALDO MAGALHÃES",
+          "sgp": "PV",
+          "com": "PC do B / PT / PV",
+          "vap": "110620",
+          "seq": "10"
+        },
+        {
+          "n": "7713",
+          "sqcand": "170001610574",
+          "nm": "MARIA LEAL ARRAES DE ALENCAR",
+          "nmu": "MARIA ARRAES",
+          "sgp": "SOLIDARIEDADE",
+          "com": "SOLIDARIEDADE",
+          "vap": "104571",
+          "seq": "11"
+        },
+        {
+          "n": "1555",
+          "sqcand": "170001613278",
+          "nm": "IZA PAULA DE DEUS E MELLO ALBUQUERQUE ARRUDA",
+          "nmu": "IZA ARRUDA",
+          "sgp": "MDB",
+          "com": "MDB",
+          "vap": "103950",
+          "seq": "12"
+        },
+        {
+          "n": "1000",
+          "sqcand": "170001595454",
+          "nm": "AUGUSTO RODRIGUES COUTINHO DE MELO",
+          "nmu": "AUGUSTO COUTINHO",
+          "sgp": "REPUBLICANOS",
+          "com": "REPUBLICANOS",
+          "vap": "101142",
+          "seq": "13"
+        },
+        {
+          "n": "2200",
+          "sqcand": "170001609087",
+          "nm": "FRANCISCO EURICO DA SILVA",
+          "nmu": "PASTOR EURICO",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "100811",
+          "seq": "14"
+        },
+        {
+          "n": "1190",
+          "sqcand": "170001618622",
+          "nm": "FERNANDO MONTEIRO DE ALBUQUERQUE",
+          "nmu": "FERNANDO MONTEIRO",
+          "sgp": "PP",
+          "com": "PP",
+          "vap": "99751",
+          "seq": "15"
+        },
+        {
+          "n": "4044",
+          "sqcand": "170001619893",
+          "nm": "JOSE ERIBERTO MEDEIROS DE OLIVEIRA",
+          "nmu": "ERIBERTO MEDEIROS",
+          "sgp": "PSB",
+          "com": "PSB",
+          "vap": "99226",
+          "seq": "16"
+        },
+        {
+          "n": "1100",
+          "sqcand": "170001618620",
+          "nm": "LUIZ EDUARDO DE QUEIROZ CAMPOS DA FONTE ALBUQUERQUE",
+          "nmu": "LULA DA FONTE",
+          "sgp": "PP",
+          "com": "PP",
+          "vap": "94122",
+          "seq": "17"
+        },
+        {
+          "n": "4011",
+          "sqcand": "170001619894",
+          "nm": "LUCAS CAVALCANTI RAMOS",
+          "nmu": "LUCAS RAMOS",
+          "sgp": "PSB",
+          "com": "PSB",
+          "vap": "85571",
+          "seq": "18"
+        },
+        {
+          "n": "4019",
+          "sqcand": "170001619889",
+          "nm": "GUILHERME ARISTOTELES UCHOA CAVALCANTI PESSOA DE MELO JUNIOR",
+          "nmu": "GUILHERME UCHOA JUNIOR",
+          "sgp": "PSB",
+          "com": "PSB",
+          "vap": "84592",
+          "seq": "19"
+        },
+        {
+          "n": "2210",
+          "sqcand": "170001609070",
+          "nm": "LUIZ DE FRANÇA E SILVA MEIRA",
+          "nmu": "CORONEL MEIRA",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "78941",
+          "seq": "20"
+        },
+        {
+          "n": "4004",
+          "sqcand": "170001619891",
+          "nm": "FELIPE AUGUSTO LYRA CARRERAS",
+          "nmu": "FELIPE  CARRERAS",
+          "sgp": "PSB",
+          "com": "PSB",
+          "vap": "76528",
+          "seq": "21"
+        },
+        {
+          "n": "4433",
+          "sqcand": "170001609111",
+          "nm": "JOSÉ MENDONÇA BEZERRA FILHO",
+          "nmu": "MENDONÇA FILHO",
+          "sgp": "UNIÃO",
+          "com": "UNIÃO",
+          "vap": "76022",
+          "seq": "22"
+        },
+        {
+          "n": "4444",
+          "sqcand": "170001609112",
+          "nm": "LUCIANO CALDAS BIVAR",
+          "nmu": "LUCIANO BIVAR",
+          "sgp": "UNIÃO",
+          "com": "UNIÃO",
+          "vap": "74425",
+          "seq": "23"
+        },
+        {
+          "n": "2233",
+          "sqcand": "170001609086",
+          "nm": "FERNANDO RODOLFO TENORIO DE VASCONCELOS",
+          "nmu": "FERNANDO RODOLFO",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "60088",
+          "seq": "24"
+        },
+        {
+          "n": "6513",
+          "sqcand": "170001609044",
+          "nm": "RENILDO VASCONCELOS CALHEIROS",
+          "nmu": "RENILDO CALHEIROS",
+          "sgp": "PC do B",
+          "com": "PC do B / PT / PV",
+          "vap": "59686",
+          "seq": "25"
+        }
+      ]
+    },
+    {
+      "tpabr": "UF",
+      "cdabr": "PI",
+      "nmabr": "PIAUÍ",
+      "tvap": "1957483",
+      "cand": [
+        {
+          "n": "5555",
+          "sqcand": "180001602553",
+          "nm": "JULIO CÉSAR DE CARVALHO LIMA",
+          "nmu": "JULIO CÉSAR",
+          "sgp": "PSD",
+          "com": "PSD",
+          "vap": "134863",
+          "seq": "1"
+        },
+        {
+          "n": "1313",
+          "sqcand": "180001610755",
+          "nm": "FRANCISCO DE ASSIS DE OLIVEIRA COSTA",
+          "nmu": "DR. FRANCISCO",
+          "sgp": "PT",
+          "com": "PC do B / PT / PV",
+          "vap": "128080",
+          "seq": "2"
+        },
+        {
+          "n": "5510",
+          "sqcand": "180001602552",
+          "nm": "JOSÉ DIAS DE CASTRO NETO",
+          "nmu": "CASTRO NETO",
+          "sgp": "PSD",
+          "com": "PSD",
+          "vap": "127753",
+          "seq": "3"
+        },
+        {
+          "n": "1311",
+          "sqcand": "180001610756",
+          "nm": "REJANE RIBEIRO SOUSA DIAS",
+          "nmu": "REJANE DIAS",
+          "sgp": "PT",
+          "com": "PC do B / PT / PV",
+          "vap": "125774",
+          "seq": "4"
+        },
+        {
+          "n": "1111",
+          "sqcand": "180001602515",
+          "nm": "JULIO FERRAZ ARCOVERDE",
+          "nmu": "JULIO ARCOVERDE",
+          "sgp": "PP",
+          "com": "PP",
+          "vap": "117669",
+          "seq": "5"
+        },
+        {
+          "n": "1310",
+          "sqcand": "180001610762",
+          "nm": "FLORENTINO ALVES VERAS NETO",
+          "nmu": "FLORENTINO NETO",
+          "sgp": "PT",
+          "com": "PC do B / PT / PV",
+          "vap": "105739",
+          "seq": "6"
+        },
+        {
+          "n": "1312",
+          "sqcand": "180001610759",
+          "nm": "FLAVIO RODRIGUES NOGUEIRA",
+          "nmu": "FLAVIO NOGUEIRA",
+          "sgp": "PT",
+          "com": "PC do B / PT / PV",
+          "vap": "100151",
+          "seq": "7"
+        },
+        {
+          "n": "1110",
+          "sqcand": "180001602514",
+          "nm": "ÁTILA DE MELO LIRA",
+          "nmu": "ATILA",
+          "sgp": "PP",
+          "com": "PP",
+          "vap": "92791",
+          "seq": "8"
+        },
+        {
+          "n": "4333",
+          "sqcand": "180001610760",
+          "nm": "JADYEL SILVA ALENCAR",
+          "nmu": "JADYEL DA JUPI",
+          "sgp": "PV",
+          "com": "PC do B / PT / PV",
+          "vap": "83175",
+          "seq": "9"
+        },
+        {
+          "n": "5515",
+          "sqcand": "180001602554",
+          "nm": "MARCOS AURELIO PADUA RIBEIRO GONÇALVES DE SAMPAIO",
+          "nmu": "MARCOS AURELIO SAMPAIO",
+          "sgp": "PSD",
+          "com": "PSD",
+          "vap": "79987",
+          "seq": "10"
+        }
+      ]
+    },
+    {
+      "tpabr": "UF",
+      "cdabr": "RJ",
+      "nmabr": "RIO DE JANEIRO",
+      "tvap": "8571572",
+      "cand": [
+        {
+          "n": "4412",
+          "sqcand": "190001619522",
+          "nm": "DANIELA MOTÉ DE SOUZA CARNEIRO",
+          "nmu": "DANIELA DO WAGUINHO",
+          "sgp": "UNIÃO",
+          "com": "UNIÃO",
+          "vap": "213706",
+          "seq": "1"
+        },
+        {
+          "n": "2212",
+          "sqcand": "190001596794",
+          "nm": "EDUARDO PAZUELLO",
+          "nmu": "GENERAL  PAZUELLO",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "205324",
+          "seq": "2"
+        },
+        {
+          "n": "5077",
+          "sqcand": "190001600487",
+          "nm": "TALÍRIA PETRONE SOARES",
+          "nmu": "TALIRIA PETRONE",
+          "sgp": "PSOL",
+          "com": "PSOL / REDE",
+          "vap": "198548",
+          "seq": "3"
+        },
+        {
+          "n": "1177",
+          "sqcand": "190001605591",
+          "nm": "LUIZ ANTONIO DE SOUZA TEIXEIRA JUNIOR",
+          "nmu": "DOUTOR LUIZINHO",
+          "sgp": "PP",
+          "com": "PP",
+          "vap": "190071",
+          "seq": "4"
+        },
+        {
+          "n": "2269",
+          "sqcand": "190001596785",
+          "nm": "ALTINEU CORTES FREITAS COUTINHO",
+          "nmu": "ALTINEU CORTES",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "167512",
+          "seq": "5"
+        },
+        {
+          "n": "5000",
+          "sqcand": "190001600488",
+          "nm": "TARCÍSIO MOTTA DE CARVALHO",
+          "nmu": "TARCÍSIO MOTTA",
+          "sgp": "PSOL",
+          "com": "PSOL / REDE",
+          "vap": "159928",
+          "seq": "6"
+        },
+        {
+          "n": "1522",
+          "sqcand": "190001644973",
+          "nm": "OTONI MOURA DE PAULO JUNIOR",
+          "nmu": "OTONI DE PAULA",
+          "sgp": "MDB",
+          "com": "MDB",
+          "vap": "158507",
+          "seq": "7"
+        },
+        {
+          "n": "1300",
+          "sqcand": "190001619207",
+          "nm": "LUIZ LINDBERGH FARIAS FILHO",
+          "nmu": "LINDBERGH FARIAS",
+          "sgp": "PT",
+          "com": "PC do B / PT / PV",
+          "vap": "152219",
+          "seq": "8"
+        },
+        {
+          "n": "1516",
+          "sqcand": "190001644983",
+          "nm": "GUTEMBERG REIS DE OLIVEIRA",
+          "nmu": "GUTEMBERG REIS",
+          "sgp": "MDB",
+          "com": "MDB",
+          "vap": "133612",
+          "seq": "9"
+        },
+        {
+          "n": "2220",
+          "sqcand": "190001596786",
+          "nm": "HELIO FERNANDO BARBOSA LOPES",
+          "nmu": "HELIO FERNANDO BARBOSA LOPES",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "132986",
+          "seq": "10"
+        },
+        {
+          "n": "2222",
+          "sqcand": "190001596770",
+          "nm": "SORAYA ALENCAR DOS SANTOS",
+          "nmu": "SORAYA SANTOS",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "130379",
+          "seq": "11"
+        },
+        {
+          "n": "5050",
+          "sqcand": "190001600473",
+          "nm": "FRANCISCO RODRIGUES DE ALENCAR FILHO",
+          "nmu": "CHICO ALENCAR",
+          "sgp": "PSOL",
+          "com": "PSOL / REDE",
+          "vap": "115023",
+          "seq": "12"
+        },
+        {
+          "n": "2211",
+          "sqcand": "190001596781",
+          "nm": "CARLOS ROBERTO COELHO DE MATTOS JUNIOR",
+          "nmu": "CARLOS JORDY",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "114587",
+          "seq": "13"
+        },
+        {
+          "n": "1377",
+          "sqcand": "190001619202",
+          "nm": "BENEDITA SOUZA DA SILVA SAMPAIO",
+          "nmu": "BENEDITA DA SILVA",
+          "sgp": "PT",
+          "com": "PC do B / PT / PV",
+          "vap": "113831",
+          "seq": "14"
+        },
+        {
+          "n": "1313",
+          "sqcand": "190001619235",
+          "nm": "WASHINGTON LUIZ CARDOSO SIQUEIRA",
+          "nmu": "WASHINGTON QUAQUÁ",
+          "sgp": "PT",
+          "com": "PC do B / PT / PV",
+          "vap": "113282",
+          "seq": "15"
+        },
+        {
+          "n": "1000",
+          "sqcand": "190001644820",
+          "nm": "MARCELO BEZERRA CRIVELLA",
+          "nmu": "MARCELO CRIVELLA",
+          "sgp": "REPUBLICANOS",
+          "com": "REPUBLICANOS",
+          "vap": "110450",
+          "seq": "16"
+        },
+        {
+          "n": "7733",
+          "sqcand": "190001601720",
+          "nm": "AUREO LIDIO MOREIRA RIBEIRO",
+          "nmu": "AUREO RIBEIRO",
+          "sgp": "SOLIDARIEDADE",
+          "com": "SOLIDARIEDADE",
+          "vap": "103321",
+          "seq": "17"
+        },
+        {
+          "n": "5588",
+          "sqcand": "190001603437",
+          "nm": "DANIEL RICARDO SORANZ PINTO",
+          "nmu": "DANIEL SORANZ",
+          "sgp": "PSD",
+          "com": "PSD",
+          "vap": "98784",
+          "seq": "18"
+        },
+        {
+          "n": "2282",
+          "sqcand": "190001738867",
+          "nm": "ROBERTO LUIZ RODRIGUES DE OLIVEIRA",
+          "nmu": "ROBERTO MONTEIRO PAI",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "94221",
+          "seq": "19"
+        },
+        {
+          "n": "9090",
+          "sqcand": "190001606579",
+          "nm": "MAX RODRIGUES LEMOS",
+          "nmu": "MAX",
+          "sgp": "PROS",
+          "com": "PROS",
+          "vap": "89507",
+          "seq": "20"
+        },
+        {
+          "n": "2256",
+          "sqcand": "190001596803",
+          "nm": "LUCIANO VIEIRA MENDES",
+          "nmu": "LUCIANO VIEIRA",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "84942",
+          "seq": "21"
+        },
+        {
+          "n": "6565",
+          "sqcand": "190001619224",
+          "nm": "JANDIRA FEGHALI",
+          "nmu": "JANDIRA FEGHALI",
+          "sgp": "PC do B",
+          "com": "PC do B / PT / PV",
+          "vap": "84054",
+          "seq": "22"
+        },
+        {
+          "n": "5080",
+          "sqcand": "190001600475",
+          "nm": "GLAUBER DE MEDEIROS BRAGA",
+          "nmu": "GLAUBER",
+          "sgp": "PSOL",
+          "com": "PSOL / REDE",
+          "vap": "78048",
+          "seq": "23"
+        },
+        {
+          "n": "4401",
+          "sqcand": "190001619502",
+          "nm": "JOÃO FRANCISCO INÁCIO BRAZÃO",
+          "nmu": "CHIQUINHO BRAZÃO",
+          "sgp": "UNIÃO",
+          "com": "UNIÃO",
+          "vap": "77367",
+          "seq": "24"
+        },
+        {
+          "n": "5555",
+          "sqcand": "190001603407",
+          "nm": "PEDRO PAULO CARVALHO TEIXEIRA",
+          "nmu": "PEDRO PAULO",
+          "sgp": "PSD",
+          "com": "PSD",
+          "vap": "76828",
+          "seq": "25"
+        },
+        {
+          "n": "1033",
+          "sqcand": "190001644815",
+          "nm": "ROSANGELA DE SOUZA GOMES",
+          "nmu": "ROSANGELA GOMES",
+          "sgp": "REPUBLICANOS",
+          "com": "REPUBLICANOS",
+          "vap": "76292",
+          "seq": "26"
+        },
+        {
+          "n": "4477",
+          "sqcand": "190001619524",
+          "nm": "DANIELLE DYTZ DA CUNHA",
+          "nmu": "DANI CUNHA",
+          "sgp": "UNIÃO",
+          "com": "UNIÃO",
+          "vap": "75810",
+          "seq": "27"
+        },
+        {
+          "n": "1100",
+          "sqcand": "190001605581",
+          "nm": "MARCELO ANDRÉ CID HERÁCLITO DO PORTO QUEIROZ",
+          "nmu": "MARCELO QUEIROZ",
+          "sgp": "PP",
+          "com": "PP",
+          "vap": "73728",
+          "seq": "28"
+        },
+        {
+          "n": "4000",
+          "sqcand": "190001645427",
+          "nm": "EDUARDO CARVALHO BANDEIRA DE MELLO",
+          "nmu": "BANDEIRA DE MELLO",
+          "sgp": "PSB",
+          "com": "PSB",
+          "vap": "72725",
+          "seq": "29"
+        },
+        {
+          "n": "4400",
+          "sqcand": "190001619517",
+          "nm": "ROGÉRIO TEIXEIRA JUNIOR",
+          "nmu": "JUNINHO DO PNEU",
+          "sgp": "UNIÃO",
+          "com": "UNIÃO",
+          "vap": "70660",
+          "seq": "30"
+        },
+        {
+          "n": "2233",
+          "sqcand": "190001596802",
+          "nm": "LUIZ EDUARDO CARNEIRO DA SILVA DE SOUZA LIMA",
+          "nmu": "LUIZ LIMA",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "69088",
+          "seq": "31"
+        },
+        {
+          "n": "2277",
+          "sqcand": "190001596769",
+          "nm": "SÓSTENES SILVA CAVALCANTE",
+          "nmu": "SÓSTENES CAVALCANTE",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "65443",
+          "seq": "32"
+        },
+        {
+          "n": "1216",
+          "sqcand": "190001640612",
+          "nm": "MARCOS PAULO BARBOSA TAVARES",
+          "nmu": "MARCOS TAVARES",
+          "sgp": "PDT",
+          "com": "PDT",
+          "vap": "62086",
+          "seq": "33"
+        },
+        {
+          "n": "1011",
+          "sqcand": "190001644796",
+          "nm": "JORGE BRAZ DE OLIVEIRA",
+          "nmu": "JORGE BRAZ",
+          "sgp": "REPUBLICANOS",
+          "com": "REPUBLICANOS",
+          "vap": "59201",
+          "seq": "34"
+        },
+        {
+          "n": "2217",
+          "sqcand": "190001596777",
+          "nm": "ALEXANDRE RAMAGEM RODRIGUES",
+          "nmu": "DELEGADO RAMAGEM",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "59170",
+          "seq": "35"
+        },
+        {
+          "n": "5033",
+          "sqcand": "190001600477",
+          "nm": "HENRIQUE DOS SANTOS VIEIRA LIMA",
+          "nmu": "PASTOR HENRIQUE VIEIRA",
+          "sgp": "PSOL",
+          "com": "PSOL / REDE",
+          "vap": "53933",
+          "seq": "36"
+        },
+        {
+          "n": "2214",
+          "sqcand": "190001596798",
+          "nm": "CHRISTINE NOGUEIRA DOS REIS TONIETTO",
+          "nmu": "CHRIS TONIETTO",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "52583",
+          "seq": "37"
+        },
+        {
+          "n": "5510",
+          "sqcand": "190001603404",
+          "nm": "HUGO LEAL MELO DA SILVA",
+          "nmu": "HUGO LEAL",
+          "sgp": "PSD",
+          "com": "PSD",
+          "vap": "50067",
+          "seq": "38"
+        },
+        {
+          "n": "1111",
+          "sqcand": "190001605580",
+          "nm": "JULIO LUIZ BAPTISTA LOPES",
+          "nmu": "JULIO LOPES",
+          "sgp": "PP",
+          "com": "PP",
+          "vap": "50019",
+          "seq": "39"
+        },
+        {
+          "n": "4452",
+          "sqcand": "190001619499",
+          "nm": "MURILLO GOUVÊA RODRIGUES",
+          "nmu": "MURILLO GOUVEA",
+          "sgp": "UNIÃO",
+          "com": "UNIÃO",
+          "vap": "49921",
+          "seq": "40"
+        },
+        {
+          "n": "5566",
+          "sqcand": "190001603423",
+          "nm": "MARIA LAURA MONTEZA DE SOUZA CARNEIRO",
+          "nmu": "LAURA CARNEIRO",
+          "sgp": "PSD",
+          "com": "PSD",
+          "vap": "48073",
+          "seq": "41"
+        },
+        {
+          "n": "4444",
+          "sqcand": "190001619500",
+          "nm": "MARCOS BEZERRA RIBEIRO SOARES",
+          "nmu": "MARCOS RR SOARES",
+          "sgp": "UNIÃO",
+          "com": "UNIÃO",
+          "vap": "43533",
+          "seq": "42"
+        },
+        {
+          "n": "1301",
+          "sqcand": "190001619193",
+          "nm": "DIMAS DE PAIVA GADELHA JUNIOR",
+          "nmu": "DIMAS GADELHA",
+          "sgp": "PT",
+          "com": "PC do B / PT / PV",
+          "vap": "41238",
+          "seq": "43"
+        },
+        {
+          "n": "1433",
+          "sqcand": "190001603087",
+          "nm": "CARLOS ROBERTO RODRIGUES",
+          "nmu": "BEBETO",
+          "sgp": "PTB",
+          "com": "PTB",
+          "vap": "41075",
+          "seq": "44"
+        },
+        {
+          "n": "1333",
+          "sqcand": "190001619218",
+          "nm": "REIMONT LUIZ OTONI SANTA BÁRBARA",
+          "nmu": "REIMONT",
+          "sgp": "PT",
+          "com": "PC do B / PT / PV",
+          "vap": "39325",
+          "seq": "45"
+        },
+        {
+          "n": "1911",
+          "sqcand": "190001609683",
+          "nm": "JOSE PORTUGAL NETO",
+          "nmu": "SARGENTO PORTUGAL",
+          "sgp": "PODE",
+          "com": "PODE",
+          "vap": "33368",
+          "seq": "46"
+        }
+      ]
+    },
+    {
+      "tpabr": "UF",
+      "cdabr": "RN",
+      "nmabr": "RIO GRANDE DO NORTE",
+      "tvap": "1869837",
+      "cand": []
+    },
+    {
+      "tpabr": "UF",
+      "cdabr": "RS",
+      "nmabr": "RIO GRANDE DO SUL",
+      "tvap": "6149822",
+      "cand": [
+        {
+          "n": "1022",
+          "sqcand": "210001601587",
+          "nm": "LUCIANO LORENZINI ZUCCO",
+          "nmu": "TENENTE CORONEL ZUCCO",
+          "sgp": "REPUBLICANOS",
+          "com": "REPUBLICANOS",
+          "vap": "259023",
+          "seq": "1"
+        },
+        {
+          "n": "3030",
+          "sqcand": "210001597011",
+          "nm": "MARCEL VAN HATTEM",
+          "nmu": "MARCEL VAN HATTEM",
+          "sgp": "NOVO",
+          "com": "NOVO",
+          "vap": "256913",
+          "seq": "2"
+        },
+        {
+          "n": "1307",
+          "sqcand": "210001604668",
+          "nm": "PAULO ROBERTO SEVERO PIMENTA",
+          "nmu": "PAULO PIMENTA",
+          "sgp": "PT",
+          "com": "PC do B / PT / PV",
+          "vap": "223109",
+          "seq": "3"
+        },
+        {
+          "n": "5050",
+          "sqcand": "210001596928",
+          "nm": "FERNANDA MELCHIONNA E SILVA",
+          "nmu": "FERNANDA MELCHIONNA",
+          "sgp": "PSOL",
+          "com": "PSOL / REDE",
+          "vap": "199894",
+          "seq": "4"
+        },
+        {
+          "n": "2222",
+          "sqcand": "210001648591",
+          "nm": "GIOVANI CHERINI",
+          "nmu": "GIOVANI CHERINI",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "162036",
+          "seq": "5"
+        },
+        {
+          "n": "1370",
+          "sqcand": "210001604650",
+          "nm": "MARIA DO ROSÁRIO NUNES",
+          "nmu": "MARIA DO ROSÁRIO",
+          "sgp": "PT",
+          "com": "PC do B / PT / PV",
+          "vap": "151050",
+          "seq": "6"
+        },
+        {
+          "n": "1922",
+          "sqcand": "210001596133",
+          "nm": "MAURICIO BEDIN MARCON",
+          "nmu": "MAURICIO MARCON",
+          "sgp": "PODE",
+          "com": "PODE",
+          "vap": "140634",
+          "seq": "7"
+        },
+        {
+          "n": "1320",
+          "sqcand": "210001604645",
+          "nm": "ELVINO JOSÉ BOHN GASS",
+          "nmu": "BOHN GASS",
+          "sgp": "PT",
+          "com": "PC do B / PT / PV",
+          "vap": "131881",
+          "seq": "8"
+        },
+        {
+          "n": "1355",
+          "sqcand": "210001604643",
+          "nm": "DIONILSO MATEUS MARCON",
+          "nmu": "MARCON",
+          "sgp": "PT",
+          "com": "PC do B / PT / PV",
+          "vap": "129352",
+          "seq": "9"
+        },
+        {
+          "n": "1500",
+          "sqcand": "210001647853",
+          "nm": "ALCEU MOREIRA DA SILVA",
+          "nmu": "ALCEU MOREIRA",
+          "sgp": "MDB",
+          "com": "MDB",
+          "vap": "125647",
+          "seq": "10"
+        },
+        {
+          "n": "4511",
+          "sqcand": "210001620059",
+          "nm": "LUCAS BELLO REDECKER",
+          "nmu": "LUCAS REDECKER",
+          "sgp": "PSDB",
+          "com": "CIDADANIA / PSDB",
+          "vap": "119069",
+          "seq": "11"
+        },
+        {
+          "n": "2323",
+          "sqcand": "210001620037",
+          "nm": "ANY MACHADO ORTIZ",
+          "nmu": "ANY ORTIZ",
+          "sgp": "CIDADANIA",
+          "com": "CIDADANIA / PSDB",
+          "vap": "119039",
+          "seq": "12"
+        },
+        {
+          "n": "1144",
+          "sqcand": "210001646683",
+          "nm": "PEDRO BANDARRA WESTPHALEN",
+          "nmu": "PEDRO WESTPHALEN",
+          "sgp": "PP",
+          "com": "PP",
+          "vap": "114258",
+          "seq": "13"
+        },
+        {
+          "n": "1111",
+          "sqcand": "210001646697",
+          "nm": "LUIS ANTONIO FRANCISCATTO COVATTI",
+          "nmu": "COVATTI FILHO",
+          "sgp": "PP",
+          "com": "PP",
+          "vap": "112910",
+          "seq": "14"
+        },
+        {
+          "n": "1166",
+          "sqcand": "210001646689",
+          "nm": "JOSÉ ALFONSO EBERT HAMM",
+          "nmu": "AFONSO HAMM",
+          "sgp": "PP",
+          "com": "PP",
+          "vap": "109123",
+          "seq": "15"
+        },
+        {
+          "n": "1522",
+          "sqcand": "210001647859",
+          "nm": "OSMAR GASPARINI TERRA",
+          "nmu": "OSMAR TERRA",
+          "sgp": "MDB",
+          "com": "MDB",
+          "vap": "103245",
+          "seq": "16"
+        },
+        {
+          "n": "1010",
+          "sqcand": "210001601602",
+          "nm": "ANTONIO CARLOS GOMES DA SILVA",
+          "nmu": "CARLOS GOMES",
+          "sgp": "REPUBLICANOS",
+          "com": "REPUBLICANOS",
+          "vap": "102363",
+          "seq": "17"
+        },
+        {
+          "n": "1212",
+          "sqcand": "210001621272",
+          "nm": "DARCI POMPEO DE MATTOS",
+          "nmu": "POMPEO DE MATTOS",
+          "sgp": "PDT",
+          "com": "PDT",
+          "vap": "100113",
+          "seq": "18"
+        },
+        {
+          "n": "1520",
+          "sqcand": "210001647870",
+          "nm": "MARCIO DELLA VALLE BIOLCHI",
+          "nmu": "MARCIO BIOLCHI",
+          "sgp": "MDB",
+          "com": "MDB",
+          "vap": "99627",
+          "seq": "19"
+        },
+        {
+          "n": "5501",
+          "sqcand": "210001613990",
+          "nm": "DANRLEI DE DEUS HINTERHOLZ",
+          "nmu": "DANRLEI DE DEUS GOLEIRO",
+          "sgp": "PSD",
+          "com": "PSD",
+          "vap": "97824",
+          "seq": "20"
+        },
+        {
+          "n": "1311",
+          "sqcand": "210001604656",
+          "nm": "ALEXANDRE DUARTE LINDENMEYER",
+          "nmu": "ALEXANDRE LINDENMEYER",
+          "sgp": "PT",
+          "com": "PC do B / PT / PV",
+          "vap": "93768",
+          "seq": "21"
+        },
+        {
+          "n": "6565",
+          "sqcand": "210001604641",
+          "nm": "DAIANA SILVA DOS SANTOS",
+          "nmu": "DAIANA SANTOS",
+          "sgp": "PC do B",
+          "com": "PC do B / PT / PV",
+          "vap": "88107",
+          "seq": "22"
+        },
+        {
+          "n": "2210",
+          "sqcand": "210001648581",
+          "nm": "UBIRATAN ANTUNES SANDERSON",
+          "nmu": "SANDERSON",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "86690",
+          "seq": "23"
+        },
+        {
+          "n": "2234",
+          "sqcand": "210001648574",
+          "nm": "MARLON ARATOR SANTOS DA ROSA",
+          "nmu": "MARLON SANTOS",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "85911",
+          "seq": "24"
+        },
+        {
+          "n": "2214",
+          "sqcand": "210001648576",
+          "nm": "MARCELO PIRES MORAES",
+          "nmu": "MARCELO MORAES",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "84247",
+          "seq": "25"
+        },
+        {
+          "n": "4012",
+          "sqcand": "210001596984",
+          "nm": "HEITOR JOSÉ SCHUCH",
+          "nmu": "HEITOR SCHUCH",
+          "sgp": "PSB",
+          "com": "PSB",
+          "vap": "77616",
+          "seq": "26"
+        },
+        {
+          "n": "4500",
+          "sqcand": "210001620060",
+          "nm": "DANIEL TRZECIAK DUARTE",
+          "nmu": "DANIEL TRZECIAK &apos;DANIEL DA TV&apos;",
+          "sgp": "PSDB",
+          "com": "CIDADANIA / PSDB",
+          "vap": "77232",
+          "seq": "27"
+        },
+        {
+          "n": "1200",
+          "sqcand": "210001621256",
+          "nm": "AFONSO ANTUNES DA MOTTA",
+          "nmu": "AFONSO MOTTA",
+          "sgp": "PDT",
+          "com": "PDT",
+          "vap": "70307",
+          "seq": "28"
+        },
+        {
+          "n": "4444",
+          "sqcand": "210001601877",
+          "nm": "LUIZ CARLOS GHIORZZI BUSATO",
+          "nmu": "BUSATO",
+          "sgp": "UNIÃO",
+          "com": "UNIÃO",
+          "vap": "57610",
+          "seq": "29"
+        },
+        {
+          "n": "1333",
+          "sqcand": "210001604642",
+          "nm": "DENISE DA SILVA PESSÔA",
+          "nmu": "DENISE PESSÔA",
+          "sgp": "PT",
+          "com": "PC do B / PT / PV",
+          "vap": "44241",
+          "seq": "30"
+        },
+        {
+          "n": "1012",
+          "sqcand": "210001601591",
+          "nm": "FRANCIANE ABADE BAYER MULLER",
+          "nmu": "FRANCIANE BAYER",
+          "sgp": "REPUBLICANOS",
+          "com": "REPUBLICANOS",
+          "vap": "40555",
+          "seq": "31"
+        }
+      ]
+    },
+    {
+      "tpabr": "UF",
+      "cdabr": "RO",
+      "nmabr": "RONDÔNIA",
+      "tvap": "869148",
+      "cand": [
+        {
+          "n": "4422",
+          "sqcand": "220001600708",
+          "nm": "FERNANDO RODRIGUES MÁXIMO",
+          "nmu": "DR FERNANDO MÁXIMO",
+          "sgp": "UNIÃO",
+          "com": "UNIÃO",
+          "vap": "85604",
+          "seq": "1"
+        },
+        {
+          "n": "2200",
+          "sqcand": "220001643593",
+          "nm": "SILVIA CRISTINA AMANCIO CHAGAS",
+          "nmu": "SILVIA CRISTINA",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "65012",
+          "seq": "2"
+        },
+        {
+          "n": "1555",
+          "sqcand": "220001604140",
+          "nm": "LUCIO ANTONIO MOSQUINI",
+          "nmu": "LUCIO MOSQUINI",
+          "sgp": "MDB",
+          "com": "MDB",
+          "vap": "48735",
+          "seq": "3"
+        },
+        {
+          "n": "4444",
+          "sqcand": "220001600707",
+          "nm": "MAURICIO FONSECA RIBEIRO CARVALHO DE MORAES",
+          "nmu": "MAURÍCIO CARVALHO",
+          "sgp": "UNIÃO",
+          "com": "UNIÃO",
+          "vap": "32637",
+          "seq": "4"
+        },
+        {
+          "n": "2210",
+          "sqcand": "220001643595",
+          "nm": "JOÃO CHRISÓSTOMO DE MOURA",
+          "nmu": "CORONEL CHRISÓSTOMO",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "24406",
+          "seq": "5"
+        },
+        {
+          "n": "1522",
+          "sqcand": "220001604141",
+          "nm": "THIAGO LEITE FLORES PEREIRA",
+          "nmu": "THIAGO FLORES",
+          "sgp": "MDB",
+          "com": "MDB",
+          "vap": "23791",
+          "seq": "6"
+        },
+        {
+          "n": "4412",
+          "sqcand": "220001600709",
+          "nm": "CRISTIANE LOPES DA LUZ BENARROSH",
+          "nmu": "CRISTIANE LOPES",
+          "sgp": "UNIÃO",
+          "com": "UNIÃO",
+          "vap": "22806",
+          "seq": "7"
+        },
+        {
+          "n": "4429",
+          "sqcand": "220001605553",
+          "nm": "JOSÉ EURIPEDES CLEMENTE",
+          "nmu": "LEBRÃO",
+          "sgp": "UNIÃO",
+          "com": "UNIÃO",
+          "vap": "12607",
+          "seq": "8"
+        }
+      ]
+    },
+    {
+      "tpabr": "UF",
+      "cdabr": "RR",
+      "nmabr": "RORAIMA",
+      "tvap": "291505",
+      "cand": [
+        {
+          "n": "1011",
+          "sqcand": "230001600111",
+          "nm": "JOHNATHAN PEREIRA DE JESUS",
+          "nmu": "JHONATAN DE JESUS",
+          "sgp": "REPUBLICANOS",
+          "com": "REPUBLICANOS",
+          "vap": "19881",
+          "seq": "1"
+        },
+        {
+          "n": "1515",
+          "sqcand": "230001602806",
+          "nm": "MARIA HELENA TEIXEIRA LIMA",
+          "nmu": "HELENA DA ASATUR",
+          "sgp": "MDB",
+          "com": "MDB",
+          "vap": "15848",
+          "seq": "2"
+        },
+        {
+          "n": "1510",
+          "sqcand": "230001602809",
+          "nm": "DUDA BRITO RAMOS",
+          "nmu": "DUDA RAMOS",
+          "sgp": "MDB",
+          "com": "MDB",
+          "vap": "14793",
+          "seq": "3"
+        },
+        {
+          "n": "1077",
+          "sqcand": "230001600112",
+          "nm": "STÉLIO DENER DE SOUZA CRUZ",
+          "nmu": "DEFENSOR STÉLIO DENER",
+          "sgp": "REPUBLICANOS",
+          "com": "REPUBLICANOS",
+          "vap": "14193",
+          "seq": "4"
+        },
+        {
+          "n": "1099",
+          "sqcand": "230001600114",
+          "nm": "JOSÉ FRANCISCO LOPES DE ALBUQUERQUE",
+          "nmu": "ALBUQUERQUE",
+          "sgp": "REPUBLICANOS",
+          "com": "REPUBLICANOS",
+          "vap": "14015",
+          "seq": "5"
+        },
+        {
+          "n": "4444",
+          "sqcand": "230001595281",
+          "nm": "ANTONIO CARLOS NICOLETTI",
+          "nmu": "NICOLETTI",
+          "sgp": "UNIÃO",
+          "com": "UNIÃO",
+          "vap": "10969",
+          "seq": "6"
+        },
+        {
+          "n": "5555",
+          "sqcand": "230001600149",
+          "nm": "JOSÉ HAROLDO FIGUEIREDO CAMPOS",
+          "nmu": "ZÉ HAROLDO CATHEDRAL",
+          "sgp": "PSD",
+          "com": "PSD",
+          "vap": "10361",
+          "seq": "7"
+        },
+        {
+          "n": "4420",
+          "sqcand": "230001595283",
+          "nm": "RAIMUNDO DINIZ ARAÚJO",
+          "nmu": "PASTOR DINIZ",
+          "sgp": "UNIÃO",
+          "com": "UNIÃO",
+          "vap": "8243",
+          "seq": "8"
+        }
+      ]
+    },
+    {
+      "tpabr": "UF",
+      "cdabr": "SC",
+      "nmabr": "SANTA CATARINA",
+      "tvap": "3969848",
+      "cand": [
+        {
+          "n": "2200",
+          "sqcand": "240001610965",
+          "nm": "CAROLINE RODRIGUES DE TONI",
+          "nmu": "CAROL DE TONI",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "227632",
+          "seq": "1"
+        },
+        {
+          "n": "1350",
+          "sqcand": "240001645211",
+          "nm": "PEDRO FRANCISCO UCZAI",
+          "nmu": "PROFESSOR PEDRO UCZAI",
+          "sgp": "PT",
+          "com": "PC do B / PT / PV",
+          "vap": "173531",
+          "seq": "2"
+        },
+        {
+          "n": "2222",
+          "sqcand": "240001610977",
+          "nm": "JORGE GOETTEN DE LIMA",
+          "nmu": "JORGE GOETTEN",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "159339",
+          "seq": "3"
+        },
+        {
+          "n": "1313",
+          "sqcand": "240001645213",
+          "nm": "ANA PAULA DE SOUZA LIMA",
+          "nmu": "ANA PAULA LIMA",
+          "sgp": "PT",
+          "com": "PC do B / PT / PV",
+          "vap": "148781",
+          "seq": "4"
+        },
+        {
+          "n": "2323",
+          "sqcand": "240001611938",
+          "nm": "CARMEN EMÍLIA BONFÁ ZANOTTO",
+          "nmu": "CARMEN ZANOTTO",
+          "sgp": "CIDADANIA",
+          "com": "CIDADANIA / PSDB",
+          "vap": "130138",
+          "seq": "5"
+        },
+        {
+          "n": "2233",
+          "sqcand": "240001610974",
+          "nm": "JULIA PEDROSO ZANATTA",
+          "nmu": "JULIA ZANATTA",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "111588",
+          "seq": "6"
+        },
+        {
+          "n": "5577",
+          "sqcand": "240001611140",
+          "nm": "ISMAEL DOS SANTOS",
+          "nmu": "ISMAEL",
+          "sgp": "PSD",
+          "com": "PSD",
+          "vap": "110531",
+          "seq": "7"
+        },
+        {
+          "n": "2211",
+          "sqcand": "240001610972",
+          "nm": "DANIEL COSTA DE FREITAS",
+          "nmu": "DANIEL FREITAS",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "108001",
+          "seq": "8"
+        },
+        {
+          "n": "1560",
+          "sqcand": "240001602679",
+          "nm": "VALDIR VITAL COBALCHINI",
+          "nmu": "COBALCHINI",
+          "sgp": "MDB",
+          "com": "MDB",
+          "vap": "98124",
+          "seq": "9"
+        },
+        {
+          "n": "3050",
+          "sqcand": "240001597412",
+          "nm": "GILSON MARQUES VIEIRA",
+          "nmu": "GILSON MARQUES",
+          "sgp": "NOVO",
+          "com": "NOVO",
+          "vap": "87894",
+          "seq": "10"
+        },
+        {
+          "n": "2210",
+          "sqcand": "240001610968",
+          "nm": "DANIELA CRISTINA REINEHR",
+          "nmu": "DANIELA REINEHR",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "84631",
+          "seq": "11"
+        },
+        {
+          "n": "1570",
+          "sqcand": "240001602683",
+          "nm": "CARLOS ALBERTO CHIODINI",
+          "nmu": "CARLOS CHIODINI",
+          "sgp": "MDB",
+          "com": "MDB",
+          "vap": "80089",
+          "seq": "12"
+        },
+        {
+          "n": "5511",
+          "sqcand": "240001611144",
+          "nm": "RICARDO ZANATTA GUIDI",
+          "nmu": "RICARDO GUIDI",
+          "sgp": "PSD",
+          "com": "PSD",
+          "vap": "74066",
+          "seq": "13"
+        },
+        {
+          "n": "2220",
+          "sqcand": "240001610976",
+          "nm": "MARCOS ANTONIO PEREIRA GOMES",
+          "nmu": "ZÉ TROVÃO",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "71140",
+          "seq": "14"
+        },
+        {
+          "n": "1510",
+          "sqcand": "240001602681",
+          "nm": "RAFAEL PEZENTI",
+          "nmu": "RAFAEL PEZENTI",
+          "sgp": "MDB",
+          "com": "MDB",
+          "vap": "68208",
+          "seq": "15"
+        },
+        {
+          "n": "4444",
+          "sqcand": "240001604521",
+          "nm": "FABIO LUIZ SCHIOCHET FILHO",
+          "nmu": "FABIO SCHIOCHET",
+          "sgp": "UNIÃO",
+          "com": "UNIÃO",
+          "vap": "51824",
+          "seq": "16"
+        }
+      ]
+    },
+    {
+      "tpabr": "UF",
+      "cdabr": "SE",
+      "nmabr": "SERGIPE",
+      "tvap": "1125093",
+      "cand": [
+        {
+          "n": "4444",
+          "sqcand": "260001728384",
+          "nm": "YANDRA BARRETO FERREIRA",
+          "nmu": "YANDRA DE ANDRÉ",
+          "sgp": "UNIÃO",
+          "com": "UNIÃO",
+          "vap": "131471",
+          "seq": "1"
+        },
+        {
+          "n": "2244",
+          "sqcand": "260001737580",
+          "nm": "ICARO BARBOSA COSTA",
+          "nmu": "ICARO DE VALMIR",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "75912",
+          "seq": "2"
+        },
+        {
+          "n": "5555",
+          "sqcand": "260001619673",
+          "nm": "FABIO DE ALMEIDA REIS",
+          "nmu": "FABIO REIS",
+          "sgp": "PSD",
+          "com": "PSD",
+          "vap": "75848",
+          "seq": "3"
+        },
+        {
+          "n": "1077",
+          "sqcand": "260001618176",
+          "nm": "LUIZ AUGUSTO CARVALHO RIBEIRO FILHO",
+          "nmu": "GUSTINHO RIBEIRO",
+          "sgp": "REPUBLICANOS",
+          "com": "REPUBLICANOS",
+          "vap": "71831",
+          "seq": "4"
+        },
+        {
+          "n": "4477",
+          "sqcand": "260001646377",
+          "nm": "RODRIGO SANTANA VALADARES",
+          "nmu": "RODRIGO VALADARES",
+          "sgp": "UNIÃO",
+          "com": "UNIÃO",
+          "vap": "49696",
+          "seq": "5"
+        },
+        {
+          "n": "1133",
+          "sqcand": "260001633055",
+          "nm": "JOSE THIAGO ALVES DE CARVALHO",
+          "nmu": "THIAGO DE JOALDO",
+          "sgp": "PP",
+          "com": "PP",
+          "vap": "45698",
+          "seq": "6"
+        },
+        {
+          "n": "5505",
+          "sqcand": "260001619667",
+          "nm": "KATARINA FEITOZA LIMA SANTANA",
+          "nmu": "DELEGADA KATARINA",
+          "sgp": "PSD",
+          "com": "PSD",
+          "vap": "38135",
+          "seq": "7"
+        },
+        {
+          "n": "1022",
+          "sqcand": "260001618173",
+          "nm": "ANDRE DAVID CALDAS ROSA RODRIGUES",
+          "nmu": "DELEGADO ANDRE DAVID",
+          "sgp": "REPUBLICANOS",
+          "com": "REPUBLICANOS",
+          "vap": "31597",
+          "seq": "8"
+        }
+      ]
+    },
+    {
+      "tpabr": "UF",
+      "cdabr": "SP",
+      "nmabr": "SÃO PAULO",
+      "tvap": "23286943",
+      "cand": [
+        {
+          "n": "5010",
+          "sqcand": "250001613761",
+          "nm": "GUILHERME CASTRO BOULOS",
+          "nmu": "GUILHERME BOULOS",
+          "sgp": "PSOL",
+          "com": "PSOL / REDE",
+          "vap": "1001472",
+          "seq": "1"
+        },
+        {
+          "n": "2210",
+          "sqcand": "250001611365",
+          "nm": "CARLA ZAMBELLI SALGADO DE OLIVEIRA",
+          "nmu": "CARLA ZAMBELLI",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "946244",
+          "seq": "2"
+        },
+        {
+          "n": "2222",
+          "sqcand": "250001611374",
+          "nm": "EDUARDO NANTES BOLSONARO",
+          "nmu": "EDUARDO BOLSONARO",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "741701",
+          "seq": "3"
+        },
+        {
+          "n": "2250",
+          "sqcand": "250001611315",
+          "nm": "RICARDO DE AQUINO SALLES",
+          "nmu": "RICARDO SALLES",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "640918",
+          "seq": "4"
+        },
+        {
+          "n": "1111",
+          "sqcand": "250001611973",
+          "nm": "BRUNO MARCELLO DE OLIVEIRA LIMA",
+          "nmu": "DELEGADO BRUNO LIMA",
+          "sgp": "PP",
+          "com": "PP",
+          "vap": "461217",
+          "seq": "5"
+        },
+        {
+          "n": "4040",
+          "sqcand": "250001620281",
+          "nm": "TABATA CLAUDIA AMARAL DE PONTES",
+          "nmu": "TABATA AMARAL",
+          "sgp": "PSB",
+          "com": "PSB",
+          "vap": "337873",
+          "seq": "6"
+        },
+        {
+          "n": "1000",
+          "sqcand": "250001611882",
+          "nm": "CELSO UBIRAJARA RUSSOMANNO",
+          "nmu": "CELSO RUSSOMANNO",
+          "sgp": "REPUBLICANOS",
+          "com": "REPUBLICANOS",
+          "vap": "305520",
+          "seq": "7"
+        },
+        {
+          "n": "4433",
+          "sqcand": "250001602048",
+          "nm": "KIM PATROCA KATAGUIRI",
+          "nmu": "KIM KATAGUIRI",
+          "sgp": "UNIÃO",
+          "com": "UNIÃO",
+          "vap": "295460",
+          "seq": "8"
+        },
+        {
+          "n": "5070",
+          "sqcand": "250001613814",
+          "nm": "ERIKA SANTOS SILVA",
+          "nmu": "ERIKA HILTON",
+          "sgp": "PSOL",
+          "com": "PSOL / REDE",
+          "vap": "256903",
+          "seq": "9"
+        },
+        {
+          "n": "1500",
+          "sqcand": "250001611227",
+          "nm": "MARIO PALUMBO JUNIOR",
+          "nmu": "DELEGADO PALUMBO",
+          "sgp": "MDB",
+          "com": "MDB",
+          "vap": "254898",
+          "seq": "10"
+        },
+        {
+          "n": "2290",
+          "sqcand": "250001611359",
+          "nm": "GUILHERME MURARO DERRITE",
+          "nmu": "CAPITÃO DERRITE",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "239772",
+          "seq": "11"
+        },
+        {
+          "n": "1818",
+          "sqcand": "250001613818",
+          "nm": "MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA",
+          "nmu": "MARINA SILVA",
+          "sgp": "REDE",
+          "com": "PSOL / REDE",
+          "vap": "237526",
+          "seq": "12"
+        },
+        {
+          "n": "1515",
+          "sqcand": "250001611251",
+          "nm": "LUIZ FELIPE BALEIA TENUTO ROSSI",
+          "nmu": "BALEIA ROSSI",
+          "sgp": "MDB",
+          "com": "MDB",
+          "vap": "236463",
+          "seq": "13"
+        },
+        {
+          "n": "1580",
+          "sqcand": "250001611254",
+          "nm": "FÁBIO EDUARDO DE OLIVEIRA TERUEL",
+          "nmu": "FABIO TERUEL",
+          "sgp": "MDB",
+          "com": "MDB",
+          "vap": "235165",
+          "seq": "14"
+        },
+        {
+          "n": "1010",
+          "sqcand": "250001611863",
+          "nm": "MARCOS ANTONIO PEREIRA",
+          "nmu": "MARCOS PEREIRA",
+          "sgp": "REPUBLICANOS",
+          "com": "REPUBLICANOS",
+          "vap": "231626",
+          "seq": "15"
+        },
+        {
+          "n": "5000",
+          "sqcand": "250001613762",
+          "nm": "SÂMIA DE SOUZA BOMFIM",
+          "nmu": "SÂMIA BOMFIM",
+          "sgp": "PSOL",
+          "com": "PSOL / REDE",
+          "vap": "226187",
+          "seq": "16"
+        },
+        {
+          "n": "2270",
+          "sqcand": "250001611335",
+          "nm": "MARCO ANTONIO FELICIANO",
+          "nmu": "PASTOR MARCO FELICIANO",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "220595",
+          "seq": "17"
+        },
+        {
+          "n": "4400",
+          "sqcand": "250001602030",
+          "nm": "ROSANGELA MARIA WOLFF DE QUADROS MORO",
+          "nmu": "ROSÂNGELA MORO",
+          "sgp": "UNIÃO",
+          "com": "UNIÃO",
+          "vap": "217170",
+          "seq": "18"
+        },
+        {
+          "n": "2227",
+          "sqcand": "250001611311",
+          "nm": "ROSANA DE OLIVEIRA VALLE",
+          "nmu": "ROSANA VALLE",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "216437",
+          "seq": "19"
+        },
+        {
+          "n": "2323",
+          "sqcand": "250001612129",
+          "nm": "ALEX SPINELLI MANENTE",
+          "nmu": "ALEX MANENTE",
+          "sgp": "CIDADANIA",
+          "com": "CIDADANIA / PSDB",
+          "vap": "196866",
+          "seq": "20"
+        },
+        {
+          "n": "1313",
+          "sqcand": "250001610672",
+          "nm": "RUI GOETHE DA COSTA FALCÃO",
+          "nmu": "RUI FALCÃO",
+          "sgp": "PT",
+          "com": "PC do B / PT / PV",
+          "vap": "193990",
+          "seq": "21"
+        },
+        {
+          "n": "4425",
+          "sqcand": "250001602036",
+          "nm": "ALEXANDRE LEITE DA SILVA",
+          "nmu": "ALEXANDRE LEITE",
+          "sgp": "UNIÃO",
+          "com": "UNIÃO",
+          "vap": "192806",
+          "seq": "22"
+        },
+        {
+          "n": "2299",
+          "sqcand": "250001611336",
+          "nm": "MARCIO LUIZ ALVINO DE SOUZA",
+          "nmu": "MARCIO ALVINO",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "187314",
+          "seq": "23"
+        },
+        {
+          "n": "1122",
+          "sqcand": "250001611974",
+          "nm": "CARLOS ALBERTO DA CUNHA",
+          "nmu": "DELEGADO DA CUNHA",
+          "sgp": "PP",
+          "com": "PP",
+          "vap": "181568",
+          "seq": "24"
+        },
+        {
+          "n": "1919",
+          "sqcand": "250001610258",
+          "nm": "RENATA HELLMEISTER DE ABREU MELO",
+          "nmu": "RENATA ABREU",
+          "sgp": "PODE",
+          "com": "PODE",
+          "vap": "180247",
+          "seq": "25"
+        },
+        {
+          "n": "4407",
+          "sqcand": "250001602037",
+          "nm": "FELIPE BECARI COMENALE",
+          "nmu": "FELIPE BECARI",
+          "sgp": "UNIÃO",
+          "com": "UNIÃO",
+          "vap": "178777",
+          "seq": "26"
+        },
+        {
+          "n": "4533",
+          "sqcand": "250001612092",
+          "nm": "PAULO ALEXANDRE PEREIRA BARBOSA",
+          "nmu": "PAULO ALEXANDRE BARBOSA",
+          "sgp": "PSDB",
+          "com": "CIDADANIA / PSDB",
+          "vap": "170378",
+          "seq": "27"
+        },
+        {
+          "n": "2200",
+          "sqcand": "250001611357",
+          "nm": "JOSÉ AUGUSTO ROSA",
+          "nmu": "CAPITÃO AUGUSTO",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "168740",
+          "seq": "28"
+        },
+        {
+          "n": "1301",
+          "sqcand": "250001610705",
+          "nm": "FRANCISCO DANIEL CELEGUIM DE MORAIS",
+          "nmu": "KIKO CELEGUIM",
+          "sgp": "PT",
+          "com": "PC do B / PT / PV",
+          "vap": "167438",
+          "seq": "29"
+        },
+        {
+          "n": "2233",
+          "sqcand": "250001611351",
+          "nm": "PAULO ROBERTO FREIRE DA COSTA",
+          "nmu": "PAULO FREIRE DA COSTA",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "161675",
+          "seq": "30"
+        },
+        {
+          "n": "1380",
+          "sqcand": "250001610654",
+          "nm": "JILMAR AUGUSTINHO TATTO",
+          "nmu": "JILMAR TATTO",
+          "sgp": "PT",
+          "com": "PC do B / PT / PV",
+          "vap": "157843",
+          "seq": "31"
+        },
+        {
+          "n": "5500",
+          "sqcand": "250001604939",
+          "nm": "MARCO AURELIO BERTAIOLLI",
+          "nmu": "MARCO BERTAIOLLI",
+          "sgp": "PSD",
+          "com": "PSD",
+          "vap": "157552",
+          "seq": "32"
+        },
+        {
+          "n": "5088",
+          "sqcand": "250001613792",
+          "nm": "SÔNIA BONE DE SOUSA SILVA SANTOS",
+          "nmu": "SÔNIA GUAJAJARA",
+          "sgp": "PSOL",
+          "com": "PSOL / REDE",
+          "vap": "156966",
+          "seq": "33"
+        },
+        {
+          "n": "1355",
+          "sqcand": "250001610678",
+          "nm": "LUIZ MARINHO",
+          "nmu": "LUIZ MARINHO",
+          "sgp": "PT",
+          "com": "PC do B / PT / PV",
+          "vap": "156202",
+          "seq": "34"
+        },
+        {
+          "n": "2274",
+          "sqcand": "250001611329",
+          "nm": "JEFFERSON ALVES DE CAMPOS",
+          "nmu": "JEFFERSON CAMPOS",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "155336",
+          "seq": "35"
+        },
+        {
+          "n": "1353",
+          "sqcand": "250001610688",
+          "nm": "NILTO IGNÁCIO TATTO",
+          "nmu": "NILTO TATTO",
+          "sgp": "PT",
+          "com": "PC do B / PT / PV",
+          "vap": "151861",
+          "seq": "36"
+        },
+        {
+          "n": "1370",
+          "sqcand": "250001610674",
+          "nm": "CARLOS ALBERTO ROLIM ZARATTINI",
+          "nmu": "CARLOS ZARATTINI",
+          "sgp": "PT",
+          "com": "PC do B / PT / PV",
+          "vap": "147349",
+          "seq": "37"
+        },
+        {
+          "n": "1322",
+          "sqcand": "250001610712",
+          "nm": "ARLINDO CHIGNALIA JUNIOR",
+          "nmu": "ARLINDO CHINAGLIA",
+          "sgp": "PT",
+          "com": "PC do B / PT / PV",
+          "vap": "144108",
+          "seq": "38"
+        },
+        {
+          "n": "5577",
+          "sqcand": "250001604948",
+          "nm": "ANTONIO CEZAR CORREIA FREIRE",
+          "nmu": "CEZINHA DE MADUREIRA",
+          "sgp": "PSD",
+          "com": "PSD",
+          "vap": "143434",
+          "seq": "39"
+        },
+        {
+          "n": "1910",
+          "sqcand": "250001610270",
+          "nm": "BRUNO AREVALO GANEM",
+          "nmu": "BRUNO GANEM",
+          "sgp": "PODE",
+          "com": "PODE",
+          "vap": "141595",
+          "seq": "40"
+        },
+        {
+          "n": "1354",
+          "sqcand": "250001610710",
+          "nm": "ALEXANDRE ROCHA SANTOS PADILHA",
+          "nmu": "ALEXANDRE PADILHA",
+          "sgp": "PT",
+          "com": "PC do B / PT / PV",
+          "vap": "140037",
+          "seq": "41"
+        },
+        {
+          "n": "1358",
+          "sqcand": "250001610663",
+          "nm": "ALENCAR SANTANA BRAGA",
+          "nmu": "ALENCAR SANTANA",
+          "sgp": "PT",
+          "com": "PC do B / PT / PV",
+          "vap": "139223",
+          "seq": "42"
+        },
+        {
+          "n": "5512",
+          "sqcand": "250001604967",
+          "nm": "RICARDO AUGUSTO MACHADO DA SILVA",
+          "nmu": "RICARDO SILVA",
+          "sgp": "PSD",
+          "com": "PSD",
+          "vap": "133936",
+          "seq": "43"
+        },
+        {
+          "n": "1100",
+          "sqcand": "250001611990",
+          "nm": "MANOEL MAURICIO SILVA NEVES",
+          "nmu": "MAURICIO NEVES",
+          "sgp": "PP",
+          "com": "PP",
+          "vap": "129731",
+          "seq": "44"
+        },
+        {
+          "n": "1333",
+          "sqcand": "250001610673",
+          "nm": "JULIANA CARDOSO",
+          "nmu": "JULIANA CARDOSO",
+          "sgp": "PT",
+          "com": "PC do B / PT / PV",
+          "vap": "125517",
+          "seq": "45"
+        },
+        {
+          "n": "1398",
+          "sqcand": "250001610668",
+          "nm": "LUIZ PAULO TEIXEIRA FERREIRA",
+          "nmu": "PAULO TEIXEIRA",
+          "sgp": "PT",
+          "com": "PC do B / PT / PV",
+          "vap": "122800",
+          "seq": "46"
+        },
+        {
+          "n": "2208",
+          "sqcand": "250001611324",
+          "nm": "MARIO LUIS FRIAS",
+          "nmu": "MARIO FRIAS",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "122564",
+          "seq": "47"
+        },
+        {
+          "n": "1599",
+          "sqcand": "250001611244",
+          "nm": "ALBERTO PEREIRA MOURÃO",
+          "nmu": "ALBERTO MOURÃO",
+          "sgp": "MDB",
+          "com": "MDB",
+          "vap": "114234",
+          "seq": "48"
+        },
+        {
+          "n": "5021",
+          "sqcand": "250001613809",
+          "nm": "LUIZA ERUNDINA DE SOUSA",
+          "nmu": "LUIZA ERUNDINA",
+          "sgp": "PSOL",
+          "com": "PSOL / REDE",
+          "vap": "113983",
+          "seq": "49"
+        },
+        {
+          "n": "2345",
+          "sqcand": "250001612102",
+          "nm": "ARNALDO CALIL PEREIRA JARDIM",
+          "nmu": "ARNALDO JARDIM",
+          "sgp": "CIDADANIA",
+          "com": "CIDADANIA / PSDB",
+          "vap": "113462",
+          "seq": "50"
+        },
+        {
+          "n": "1085",
+          "sqcand": "250001611851",
+          "nm": "VINICIUS RAPOZO DE CARVALHO",
+          "nmu": "VINICIUS CARVALHO",
+          "sgp": "REPUBLICANOS",
+          "com": "REPUBLICANOS",
+          "vap": "113009",
+          "seq": "51"
+        },
+        {
+          "n": "7780",
+          "sqcand": "250001606067",
+          "nm": "MARCELO DE LIMA FERNANDES",
+          "nmu": "MARCELO LIMA",
+          "sgp": "SOLIDARIEDADE",
+          "com": "SOLIDARIEDADE",
+          "vap": "110430",
+          "seq": "52"
+        },
+        {
+          "n": "3030",
+          "sqcand": "250001597671",
+          "nm": "ADRIANA MIGUEL VENTURA",
+          "nmu": "ADRIANA VENTURA",
+          "sgp": "NOVO",
+          "com": "NOVO",
+          "vap": "109474",
+          "seq": "53"
+        },
+        {
+          "n": "1977",
+          "sqcand": "250001610316",
+          "nm": "RODRIGO GAMBALE VIEIRA",
+          "nmu": "RODRIGO GAMBALE",
+          "sgp": "PODE",
+          "com": "PODE",
+          "vap": "108209",
+          "seq": "54"
+        },
+        {
+          "n": "2277",
+          "sqcand": "250001611371",
+          "nm": "MIGUEL LOMBARDI",
+          "nmu": "MIGUEL LOMBARDI",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "107869",
+          "seq": "55"
+        },
+        {
+          "n": "4510",
+          "sqcand": "250001612095",
+          "nm": "VITOR LIPPI",
+          "nmu": "VITOR LIPPI",
+          "sgp": "PSDB",
+          "com": "CIDADANIA / PSDB",
+          "vap": "106661",
+          "seq": "56"
+        },
+        {
+          "n": "2244",
+          "sqcand": "250001611345",
+          "nm": "LUIZ CARLOS MOTTA",
+          "nmu": "MOTTA",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "104701",
+          "seq": "57"
+        },
+        {
+          "n": "1055",
+          "sqcand": "250001611872",
+          "nm": "MILTON VIEIRA PINTO",
+          "nmu": "MILTON VIEIRA",
+          "sgp": "REPUBLICANOS",
+          "com": "REPUBLICANOS",
+          "vap": "98557",
+          "seq": "58"
+        },
+        {
+          "n": "4500",
+          "sqcand": "250001612116",
+          "nm": "CARLOS HENRIQUE FOCESI SAMPAIO",
+          "nmu": "CARLOS SAMPAIO",
+          "sgp": "PSDB",
+          "com": "CIDADANIA / PSDB",
+          "vap": "98102",
+          "seq": "59"
+        },
+        {
+          "n": "1520",
+          "sqcand": "250001611242",
+          "nm": "SIMONE APARECIDA CURRALADAS DOS SANTOS",
+          "nmu": "SIMONE MARQUETTO",
+          "sgp": "MDB",
+          "com": "MDB",
+          "vap": "97730",
+          "seq": "60"
+        },
+        {
+          "n": "2020",
+          "sqcand": "250001643871",
+          "nm": "GILBERTO NASCIMENTO SILVA",
+          "nmu": "GILBERTO NASCIMENTO",
+          "sgp": "PSC",
+          "com": "PSC",
+          "vap": "95077",
+          "seq": "61"
+        },
+        {
+          "n": "1022",
+          "sqcand": "250001611846",
+          "nm": "MARIA DO PARTO MENDES ROSAS",
+          "nmu": "MARIA ROSAS",
+          "sgp": "REPUBLICANOS",
+          "com": "REPUBLICANOS",
+          "vap": "94787",
+          "seq": "62"
+        },
+        {
+          "n": "4411",
+          "sqcand": "250001602056",
+          "nm": "DAVID BEZERRA RIBEIRO SOARES",
+          "nmu": "DAVID SOARES",
+          "sgp": "UNIÃO",
+          "com": "UNIÃO",
+          "vap": "93831",
+          "seq": "63"
+        },
+        {
+          "n": "4440",
+          "sqcand": "250001602079",
+          "nm": "FERNANDO JOSE DE SOUZA MARANGONI",
+          "nmu": "MARANGONI",
+          "sgp": "UNIÃO",
+          "com": "UNIÃO",
+          "vap": "89390",
+          "seq": "64"
+        },
+        {
+          "n": "4000",
+          "sqcand": "250001620296",
+          "nm": "JONAS DONIZETTE FERREIRA",
+          "nmu": "JONAS DONIZETTE",
+          "sgp": "PSB",
+          "com": "PSB",
+          "vap": "84044",
+          "seq": "65"
+        },
+        {
+          "n": "2243",
+          "sqcand": "250001611333",
+          "nm": "LUIZ PHILIPPE DE ORLEANS E BRAGANÇA",
+          "nmu": "LUIZ PHILIPPE DE O BRAGANÇA",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "79210",
+          "seq": "66"
+        },
+        {
+          "n": "2211",
+          "sqcand": "250001611362",
+          "nm": "ANTONIO CARLOS RODRIGUES",
+          "nmu": "ANTONIO CARLOS RODRIGUES",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "73054",
+          "seq": "67"
+        },
+        {
+          "n": "1123",
+          "sqcand": "250001611957",
+          "nm": "FAUSTO RUY PINATO",
+          "nmu": "FAUSTO PINATO",
+          "sgp": "PP",
+          "com": "PP",
+          "vap": "72169",
+          "seq": "68"
+        },
+        {
+          "n": "2247",
+          "sqcand": "250001611327",
+          "nm": "PAULO FRANCISCO MUNIZ BILYNSKYJ",
+          "nmu": "DELEGADO PAULO BILYNSKYJ",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "72156",
+          "seq": "69"
+        },
+        {
+          "n": "2255",
+          "sqcand": "250001611321",
+          "nm": "FRANCISCO EVERARDO TIRIRICA OLIVEIRA SILVA",
+          "nmu": "TIRIRICA",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "71754",
+          "seq": "70"
+        }
+      ]
+    },
+    {
+      "tpabr": "UF",
+      "cdabr": "TO",
+      "nmabr": "TOCANTINS",
+      "tvap": "830140",
+      "cand": [
+        {
+          "n": "1011",
+          "sqcand": "270001654159",
+          "nm": "ANTONIO POINCARE ANDRADE FILHO",
+          "nmu": "TOINHO ANDRADE",
+          "sgp": "REPUBLICANOS",
+          "com": "REPUBLICANOS",
+          "vap": "63813",
+          "seq": "1"
+        },
+        {
+          "n": "1111",
+          "sqcand": "270001643407",
+          "nm": "VICENTE ALVES DE OLIVEIRA JUNIOR",
+          "nmu": "VICENTINHO JUNIOR",
+          "sgp": "PP",
+          "com": "PP",
+          "vap": "55292",
+          "seq": "2"
+        },
+        {
+          "n": "1088",
+          "sqcand": "270001654160",
+          "nm": "JOSÉ ALEXANDRE DOMINGUES GUIMARÃES",
+          "nmu": "ALEXANDRE GUIMARÃES",
+          "sgp": "REPUBLICANOS",
+          "com": "REPUBLICANOS",
+          "vap": "54703",
+          "seq": "3"
+        },
+        {
+          "n": "4444",
+          "sqcand": "270001643519",
+          "nm": "CARLOS HENRIQUE AMORIM",
+          "nmu": "CARLOS GAGUIM",
+          "sgp": "UNIÃO",
+          "com": "UNIÃO",
+          "vap": "52203",
+          "seq": "4"
+        },
+        {
+          "n": "1000",
+          "sqcand": "270001654164",
+          "nm": "RICARDO AYRES DE CARVALHO",
+          "nmu": "RICARDO AYRES",
+          "sgp": "REPUBLICANOS",
+          "com": "REPUBLICANOS",
+          "vap": "45880",
+          "seq": "5"
+        },
+        {
+          "n": "2222",
+          "sqcand": "270001643553",
+          "nm": "FILIPE MARTINS DOS SANTOS",
+          "nmu": "FILIPE MARTINS",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "36293",
+          "seq": "6"
+        },
+        {
+          "n": "2200",
+          "sqcand": "270001643551",
+          "nm": "ELI DIAS BORGES",
+          "nmu": "ELI BORGES",
+          "sgp": "PL",
+          "com": "PL",
+          "vap": "35171",
+          "seq": "7"
+        },
+        {
+          "n": "1145",
+          "sqcand": "270001643406",
+          "nm": "LAZARO BOTELHO MARTINS",
+          "nmu": "LAZARO BOTELHO",
+          "sgp": "PP",
+          "com": "PP",
+          "vap": "13668",
+          "seq": "8"
+        }
+      ]
+    }
+  ]
+}
